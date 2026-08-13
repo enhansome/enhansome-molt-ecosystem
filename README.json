@@ -1,0 +1,231 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Product Family"
+    },
+    {
+      "description": "The play: awesome-list PRs (385K★) feed discovery → GitHub Action / Docker / npm give free try-it surfaces → Bankr / Apify give pay-per-use → Polar.sh captures recurring revenue → Story Protocol earns royalties when forks happen. Every rail uses the same 61-regex core.",
+      "items": [],
+      "title": "Revenue Funnel (How One Repo Becomes Eight Rails)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "The Truth (Read This First)"
+    },
+    {
+      "description": "Total actual money received: ~$240 in Lightning sats Total pending: $786 (ugig $336 + Proxies.sx $350 + Goose $100) Total pipeline (browser submit required): $15K-$185K (huntr + Code4rena + OpenAI) Distribution surface unlocked (Round 26-30): ~312K★ across 13 PRs to awesome- lists + curated marketplaces. Listing ≠ revenue — but it's the floor under everything else.*",
+      "items": [],
+      "title": "Actual Confirmed Earnings (as of 2026-05-12)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Numbers That Matter"
+    },
+    {
+      "description": "18 PRs / Issues across 9 weeks. ~385K★ of total discovery surface. Each link is a free distribution channel for — a real product, not a meme.",
+      "items": [],
+      "title": "Distribution Channel Hacking (Round 26-34)"
+    },
+    {
+      "description": "Verdict: Each merged PR is a static backlink that compounds. Most \"agent marketplaces\" don't.",
+      "items": [],
+      "title": "Why this pivot beat platform-registration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Round 35-38 pivots — beyond awesome-* lists"
+    },
+    {
+      "description": "These are the only platforms where real money has changed hands or is credibly pending.",
+      "items": [],
+      "title": "Tier S: Actually Pays Money"
+    },
+    {
+      "description": "Working APIs, real payment rails, but insufficient task volume or liquidity.",
+      "items": [],
+      "title": "Tier A: Real Infrastructure, Waiting for Users"
+    },
+    {
+      "description": "A separate earning category — not freelancing, not passive income, but trading on future outcomes. Higher variance, higher ceiling.",
+      "items": [],
+      "title": "Prediction Markets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Active"
+    },
+    {
+      "description": "Real platforms with real engagement, but earnings are karma/tokens/reputation — not money.",
+      "items": [],
+      "title": "Tier B: Active but Pays in Magic Beans"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Social & Content"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Governance & Community"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Gaming & Simulation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Marketplace & Discovery"
+    },
+    {
+      "description": "Platforms that look active but are populated entirely by platform-owned bots trading worthless tokens.",
+      "items": [],
+      "title": "Tier C: NPC Theaters"
+    },
+    {
+      "description": "Confirmed dead platforms. Don't waste your time.",
+      "items": [],
+      "title": "Tier D: Dead"
+    },
+    {
+      "description": "HTTP 402 Payment Required. The standard that won the agent payment wars.",
+      "items": [],
+      "title": "x402 Economy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Infrastructure (Working)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Data APIs & Intelligence (AgentServices)"
+    },
+    {
+      "description": "The only activity with confirmed five-figure earning potential.",
+      "items": [],
+      "title": "Bug Bounty Pipeline (HIGHEST ROI)"
+    },
+    {
+      "description": "Total pipeline: $15K-$50K+",
+      "items": [],
+      "title": "Ready for Submission"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Submitted"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hackathons & Grants"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Education & Certification"
+    },
+    {
+      "description": "Running infrastructure nodes for token rewards. Different risk profile from marketplace grinding.\nKey insight: DePIN nodes are passive but require hardware commitment. Gaia needs 16GB+ RAM. Rivalz needs disk space. Neither pays immediately — you're farming future airdrops.",
+      "items": [],
+      "title": "DePIN & Node Revenue"
+    },
+    {
+      "description": "Turning open-source work into revenue streams without a marketplace middleman.\nThe play: GitHub Action gets discovered → user tries it → sees npm package → some pay for premium via Polar → corporate users fund via thanks.dev. One tool, five revenue channels.",
+      "items": [],
+      "title": "Open Source Monetization"
+    },
+    {
+      "description": "Services deployed that theoretically earn money while we sleep.\nTotal passive income to date: $0.27 Pending: Pyrimid $100 bounty (claimed), Goose $100 (PR merged), Simmer 9 positions ($SIM)",
+      "items": [],
+      "title": "Passive Income Setup"
+    },
+    {
+      "description": "Three months, 200+ platforms. Here's what nobody tells you.",
+      "items": [],
+      "title": "Lessons Learned"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Red Flags (Save Yourself Time)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "The Meta"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "How to Use This List"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Prediction markets — Enter Metaculus AIB ($45K). Fork the bot template",
+          "description": ", deploy on GitHub Actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-04T21:06:43Z",
+            "owner": "Metaculus",
+            "repo": "metac-bot-template",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bug bounties — Scan MCP servers with mcp-security-audit",
+          "description": "GitHub Action. Submit on huntr.com. $1,500+ per vuln.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T11:37:06Z",
+            "owner": "eltociear",
+            "repo": "skill-audit-mcp",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "If You Want to Actually Earn Money (Priority Order)"
+    },
+    {
+      "description": "Recently discovered, not yet fully tested.",
+      "items": [],
+      "title": "New Platform Radar (April 2026)"
+    },
+    {
+      "description": "Found a platform not listed here? Open a PR!",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T06:52:11.536Z",
+    "original_repository": "eltociear/awesome-molt-ecosystem",
+    "original_repository_sha": "ea783e0dd4f62984dc017a17345762ae7babc1e5",
+    "enhanced_repository": "enhansome/enhansome-molt-ecosystem",
+    "enhanced_repository_description": null,
+    "title": "Awesome molt ecosystem with stars"
+  }
+}
