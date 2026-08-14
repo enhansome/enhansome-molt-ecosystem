@@ -184,7 +184,7 @@
             "last_commit": "2026-06-04T21:06:43Z",
             "owner": "Metaculus",
             "repo": "metac-bot-template",
-            "stars": 62
+            "stars": 63
           }
         },
         {
@@ -221,7 +221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T06:52:11.536Z",
+    "last_updated": "2026-08-14T06:49:48.082Z",
     "original_repository": "eltociear/awesome-molt-ecosystem",
     "original_repository_sha": "ea783e0dd4f62984dc017a17345762ae7babc1e5",
     "enhanced_repository": "enhansome/enhansome-molt-ecosystem",

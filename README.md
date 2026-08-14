@@ -211,8 +211,8 @@ If a platform launched in the last 3 months and has fewer than 100 real users, i
 | GitHub Marketplace             | [skill-audit-mcp](https://github.com/eltociear/skill-audit-mcp) ⭐ 5 \| 🐛 1 \| 🌐 Python \| 📅 2026-08-11 Action v1.0.1                  |
 | GHCR Docker image              | `ghcr.io/eltociear/skill-audit-mcp:v1` (multi-arch amd64+arm64)                                                                          |
 | Sister MCP 🆕                  | [secrets-audit-mcp](https://github.com/eltociear/secrets-audit-mcp) ⭐ 1 \| 🐛 0 \| 🌐 Python \| 📅 2026-08-02 v1.0.0 — 32 provider rules |
-| Cline MCP Marketplace          | Issue [#1545](https://github.com/cline/mcp-marketplace/issues/1545) ⭐ 785 \| 🐛 1,974 \| 📅 2025-06-24 pending approval                  |
-| Goose extension docs PR        | [aaif-goose/goose#9134](https://github.com/aaif-goose/goose/pull/9134) ⭐ 52,742 \| 🐛 255 \| 🌐 Rust \| 📅 2026-08-13 (45K★)             |
+| Cline MCP Marketplace          | Issue [#1545](https://github.com/cline/mcp-marketplace/issues/1545) ⭐ 785 \| 🐛 1,982 \| 📅 2025-06-24 pending approval                  |
+| Goose extension docs PR        | [aaif-goose/goose#9134](https://github.com/aaif-goose/goose/pull/9134) ⭐ 52,780 \| 🐛 256 \| 🌐 Rust \| 📅 2026-08-14 (45K★)             |
 | npm package                    | Token expired, regen pending                                                                                                             |
 | Polar.sh products 🆕           | 6 live: $5/$20/$50 recurring + Playbook $30 + Audit $5 + Recipes $7                                                                      |
 | Apify Actor 🆕                 | scaffold ready, `apify push` pending                                                                                                     |
@@ -220,7 +220,7 @@ If a platform launched in the last 3 months and has fewer than 100 real users, i
 | Story Protocol IP 🆕           | dry-run output: `content_sha256 = bd86ca74…7e14`, 5% royalty terms ready                                                                 |
 | Proxies.sx bounty PRs          | 4 ($350 submitted)                                                                                                                       |
 | ugig gigs delivered            | 20/20 ($336)                                                                                                                             |
-| Goose Builder PR               | [goose-skills#40](https://github.com/gooseworks-ai/goose-skills/pull/40) ⭐ 1,147 \| 🐛 54 \| 🌐 Python \| 📅 2026-07-23 ($100 pending)   |
+| Goose Builder PR               | [goose-skills#40](https://github.com/gooseworks-ai/goose-skills/pull/40) ⭐ 1,148 \| 🐛 55 \| 🌐 Python \| 📅 2026-08-14 ($100 pending)   |
 | Pyrimid affiliate rank         | #2 globally (token #2 on Base)                                                                                                           |
 | Prediction markets             | Metaculus 150 + Simmer 9 + betcoin 4 + Limitless active                                                                                  |
 | TimePersona karma              | 6,458 (#1 persona tier)                                                                                                                  |
@@ -241,24 +241,24 @@ If a platform launched in the last 3 months and has fewer than 100 real users, i
 
 | Repo                                                  | Stars           | Status               | Item                                                                                                                                                                                                                |
 | ----------------------------------------------------- | --------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **punkpeye/awesome-mcp-servers**                      | 86,667          | PRs open             | [#5434](https://github.com/punkpeye/awesome-mcp-servers/pull/5434) ⭐ 92,190 \| 🐛 2,835 \| 📅 2026-08-03 · [#5196](https://github.com/punkpeye/awesome-mcp-servers/pull/5196) ⭐ 92,190 \| 🐛 2,835 \| 📅 2026-08-03 |
-| **cline/mcp-marketplace**                             | 61,608          | Issue pending review | [#1545](https://github.com/cline/mcp-marketplace/issues/1545) ⭐ 785 \| 🐛 1,974 \| 📅 2025-06-24 — curated one-click install                                                                                        |
-| **ComposioHQ/awesome-claude-skills**                  | 59,145          | PR open              | [#801](https://github.com/ComposioHQ/awesome-claude-skills/pull/801) ⭐ 72,397 \| 🐛 1,239 \| 🌐 Python \| 📅 2026-08-10                                                                                             |
-| **aaif-goose/goose**                                  | 44,975          | PR open              | [#9134](https://github.com/aaif-goose/goose/pull/9134) ⭐ 52,742 \| 🐛 255 \| 🌐 Rust \| 📅 2026-08-13 — extension tutorial doc                                                                                      |
-| **veggiemonk/awesome-docker** 🆕                      | 36,000          | PR open              | [#1427](https://github.com/veggiemonk/awesome-docker/pull/1427) ⭐ 36,627 \| 🐛 22 \| 📅 2026-07-29 — Round 31                                                                                                       |
-| **sdras/awesome-actions**                             | 27,770          | PR open              | [#793](https://github.com/sdras/awesome-actions/pull/793) ⭐ 28,119 \| 🐛 252 \| 📅 2024-09-01 — Security subsection                                                                                                 |
+| **punkpeye/awesome-mcp-servers**                      | 86,667          | PRs open             | [#5434](https://github.com/punkpeye/awesome-mcp-servers/pull/5434) ⭐ 92,281 \| 🐛 2,895 \| 📅 2026-08-03 · [#5196](https://github.com/punkpeye/awesome-mcp-servers/pull/5196) ⭐ 92,281 \| 🐛 2,895 \| 📅 2026-08-03 |
+| **cline/mcp-marketplace**                             | 61,608          | Issue pending review | [#1545](https://github.com/cline/mcp-marketplace/issues/1545) ⭐ 785 \| 🐛 1,982 \| 📅 2025-06-24 — curated one-click install                                                                                        |
+| **ComposioHQ/awesome-claude-skills**                  | 59,145          | PR open              | [#801](https://github.com/ComposioHQ/awesome-claude-skills/pull/801) ⭐ 72,453 \| 🐛 1,240 \| 🌐 Python \| 📅 2026-08-10                                                                                             |
+| **aaif-goose/goose**                                  | 44,975          | PR open              | [#9134](https://github.com/aaif-goose/goose/pull/9134) ⭐ 52,780 \| 🐛 256 \| 🌐 Rust \| 📅 2026-08-14 — extension tutorial doc                                                                                      |
+| **veggiemonk/awesome-docker** 🆕                      | 36,000          | PR open              | [#1427](https://github.com/veggiemonk/awesome-docker/pull/1427) ⭐ 36,636 \| 🐛 24 \| 📅 2026-07-29 — Round 31                                                                                                       |
+| **sdras/awesome-actions**                             | 27,770          | PR open              | [#793](https://github.com/sdras/awesome-actions/pull/793) ⭐ 28,122 \| 🐛 253 \| 📅 2024-09-01 — Security subsection                                                                                                 |
 | **VoltAgent/awesome-claude-code-subagents** 🆕        | 20,000          | PR open              | 165-line subagent .md contributed — Round 33                                                                                                                                                                        |
-| **travisvn/awesome-claude-skills**                    | 12,366          | PR open              | [#706](https://github.com/travisvn/awesome-claude-skills/pull/706) ⭐ 14,624 \| 🐛 717 \| 📅 2026-04-28                                                                                                              |
-| **BehiSecc/awesome-claude-skills**                    | 9,006           | PR open              | [#291](https://github.com/BehiSecc/awesome-claude-skills/pull/291) ⭐ 9,950 \| 🐛 45 \| 📅 2026-08-02                                                                                                                |
-| **yzfly/Awesome-MCP-ZH**                              | 7,044           | PR open (中文)         | [#219](https://github.com/yzfly/Awesome-MCP-ZH/pull/219) ⭐ 7,554 \| 🐛 65 \| 📅 2026-07-03                                                                                                                          |
-| **tensorchord/Awesome-LLMOps** 🆕                     | 5,700           | PR open              | [#468](https://github.com/tensorchord/Awesome-LLMOps/pull/468) ⭐ 5,914 \| 🐛 230 \| 🌐 Shell \| 📅 2026-05-21 — Round 31                                                                                            |
-| **devsecops/awesome-devsecops** 🆕                    | 5,400           | PR open              | [#134](https://github.com/devsecops/awesome-devsecops/pull/134) ⭐ 5,454 \| 🐛 75 \| 📅 2024-05-11 — Round 32                                                                                                        |
-| **mahseema/awesome-ai-tools** 🆕                      | 5,200           | PR open              | [#1293](https://github.com/mahseema/awesome-ai-tools/pull/1293) ⭐ 5,945 \| 🐛 1,208 \| 📅 2025-12-31 — Round 34                                                                                                     |
+| **travisvn/awesome-claude-skills**                    | 12,366          | PR open              | [#706](https://github.com/travisvn/awesome-claude-skills/pull/706) ⭐ 14,646 \| 🐛 718 \| 📅 2026-04-28                                                                                                              |
+| **BehiSecc/awesome-claude-skills**                    | 9,006           | PR open              | [#291](https://github.com/BehiSecc/awesome-claude-skills/pull/291) ⭐ 9,954 \| 🐛 46 \| 📅 2026-08-02                                                                                                                |
+| **yzfly/Awesome-MCP-ZH**                              | 7,044           | PR open (中文)         | [#219](https://github.com/yzfly/Awesome-MCP-ZH/pull/219) ⭐ 7,561 \| 🐛 68 \| 📅 2026-07-03                                                                                                                          |
+| **tensorchord/Awesome-LLMOps** 🆕                     | 5,700           | PR open              | [#468](https://github.com/tensorchord/Awesome-LLMOps/pull/468) ⭐ 5,914 \| 🐛 235 \| 🌐 Shell \| 📅 2026-05-21 — Round 31                                                                                            |
+| **devsecops/awesome-devsecops** 🆕                    | 5,400           | PR open              | [#134](https://github.com/devsecops/awesome-devsecops/pull/134) ⭐ 5,454 \| 🐛 76 \| 📅 2024-05-11 — Round 32                                                                                                        |
+| **mahseema/awesome-ai-tools** 🆕                      | 5,200           | PR open              | [#1293](https://github.com/mahseema/awesome-ai-tools/pull/1293) ⭐ 5,948 \| 🐛 1,211 \| 📅 2025-12-31 — Round 34                                                                                                     |
 | **DeepSpaceHarbor/Awesome-AI-Security**               | 1,625           | PR open              | [#36](https://github.com/DeepSpaceHarbor/Awesome-AI-Security/pull/36) ⭐ 1,657 \| 🐛 21 \| 📅 2026-03-08                                                                                                             |
-| **corca-ai/awesome-llm-security**                     | 1,582           | PR open              | [#184](https://github.com/corca-ai/awesome-llm-security/pull/184) ⭐ 1,679 \| 🐛 179 \| 📅 2025-08-20                                                                                                                |
+| **corca-ai/awesome-llm-security**                     | 1,582           | PR open              | [#184](https://github.com/corca-ai/awesome-llm-security/pull/184) ⭐ 1,680 \| 🐛 179 \| 📅 2025-08-20                                                                                                                |
 | **Joe-B-Security/awesome-prompt-injection**           | 486             | PR open              | [#46](https://github.com/Joe-B-Security/awesome-prompt-injection/pull/46) ⭐ 590 \| 🐛 23 \| 📅 2026-06-02                                                                                                           |
 | **MLSecOps/awesome-ml-security** 🆕                   | 434             | PR open              | [#33](https://github.com/MLSecOps/awesome-ml-security/pull/33) — Round 32                                                                                                                                           |
-| **bureado/awesome-software-supply-chain-security** 🆕 | 358             | PR open              | [#61](https://github.com/bureado/awesome-software-supply-chain-security/pull/61) ⭐ 375 \| 🐛 39 \| 📅 2026-06-07 — Round 34                                                                                         |
+| **bureado/awesome-software-supply-chain-security** 🆕 | 358             | PR open              | [#61](https://github.com/bureado/awesome-software-supply-chain-security/pull/61) ⭐ 375 \| 🐛 40 \| 📅 2026-06-07 — Round 34                                                                                         |
 | **TOTAL discovery surface**                           | **\~385,073 ★** |                      | 17 PRs + 1 Issue + 1 Marketplace listing                                                                                                                                                                            |
 
 ### What didn't work (Round 26-34)
@@ -674,7 +674,7 @@ HTTP 402 Payment Required. The standard that won the agent payment wars.
 | **Earning** | $0.001-$0.05/call (USDC on Base via x402)                                                                         |
 | **Auth**    | x402 payment (no API keys needed)                                                                                 |
 | **Status**  | Production, 54 services, 97 API paths, 37 MCP tools                                                               |
-| **GitHub**  | [vbkotecha/aiservices-api](https://github.com/vbkotecha/aiservices-api) ⭐ 1 \| 🐛 3 \| 🌐 Python \| 📅 2026-08-13 |
+| **GitHub**  | [vbkotecha/aiservices-api](https://github.com/vbkotecha/aiservices-api) ⭐ 1 \| 🐛 2 \| 🌐 Python \| 📅 2026-08-13 |
 | **MCP**     | Native, 37 tools (finance, analytics, crypto, security, SEO)                                                      |
 | **x402**    | Native, manifest at `/.well-known/x402` (35 resources)                                                            |
 
@@ -760,7 +760,7 @@ The only activity with confirmed five-figure earning potential.
 | **lablab.ai AI Agent Olympics** 🆕 | TBD                      | 2026-05-13 — 05-20 | Milan, in-person                                                                                                         |
 | **Lablab.ai Arc**                  | $6K+                     | TBD                | Circle Nanopayments on Arc                                                                                               |
 | **OpenAI Safety Bounty**           | Max $7,500               | Rolling            | Bugcrowd, prompt injection focus                                                                                         |
-| **Goose Builder Program** 🆕       | **$100/PR** + newsletter | Rolling            | [PR #40 submitted](https://github.com/gooseworks-ai/goose-skills/pull/40) ⭐ 1,147 \| 🐛 54 \| 🌐 Python \| 📅 2026-07-23 |
+| **Goose Builder Program** 🆕       | **$100/PR** + newsletter | Rolling            | [PR #40 submitted](https://github.com/gooseworks-ai/goose-skills/pull/40) ⭐ 1,148 \| 🐛 55 \| 🌐 Python \| 📅 2026-08-14 |
 | Goose Grant                        | $100K                    | Rolling            | Application drafted                                                                                                      |
 | Anthropic Fellows                  | $120K                    | Rolling            | Eligible                                                                                                                 |
 | GitHub Secure OSS                  | $10K                     | Rolling            | Eligible                                                                                                                 |
@@ -887,7 +887,7 @@ Three months, 200+ platforms. Here's what nobody tells you.
 
 ### If You Want to Actually Earn Money (Priority Order)
 
-1. **Prediction markets** — Enter Metaculus AIB ($45K). Fork the [bot template](https://github.com/Metaculus/metac-bot-template) ⭐ 62 | 🐛 2 | 🌐 Python | 📅 2026-06-04, deploy on GitHub Actions.
+1. **Prediction markets** — Enter Metaculus AIB ($45K). Fork the [bot template](https://github.com/Metaculus/metac-bot-template) ⭐ 63 | 🐛 2 | 🌐 Python | 📅 2026-06-04, deploy on GitHub Actions.
 2. **Bug bounties** — Scan MCP servers with [mcp-security-audit](https://github.com/eltociear/mcp-security-audit) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2026-08-11 GitHub Action. Submit on huntr.com. $1,500+ per vuln.
 3. **ugig.net** — Apply to every gig. Write tailored cover letters. Deliver fast. Real SOL/ETH/USDC.
 4. **TAT** — Cite and comment on articles. Lightning sats per engagement.
@@ -1013,4 +1013,4 @@ If it saved you time:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
