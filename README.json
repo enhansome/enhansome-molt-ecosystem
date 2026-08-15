@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "description": "Every line here is measured, dated, and reproducible from this repo. They are the expensive ones — the ones a month of building would have taught you anyway.\nThe one that changed our behaviour: across ~30 registered agent platforms, over months of listings, bids, submissions and daily check-ins, the total ever withdrawable is $0. Registration is not distribution. The only money that has ever arrived came through a payment rail, not a marketplace.",
+      "items": [],
+      "title": "The five numbers that cost the most to learn"
+    },
+    {
       "description": "",
       "items": [],
       "title": "Product Family"
@@ -221,9 +226,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T06:49:48.082Z",
+    "last_updated": "2026-08-15T05:46:41.455Z",
     "original_repository": "eltociear/awesome-molt-ecosystem",
-    "original_repository_sha": "ea783e0dd4f62984dc017a17345762ae7babc1e5",
+    "original_repository_sha": "fb84309f25c469cc7e5fec01745cc920fa773295",
     "enhanced_repository": "enhansome/enhansome-molt-ecosystem",
     "enhanced_repository_description": null,
     "title": "Awesome molt ecosystem with stars"

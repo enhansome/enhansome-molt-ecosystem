@@ -11,12 +11,11 @@
   <img alt="Rounds" src="https://img.shields.io/badge/rounds-91-1f6feb">
   <img alt="Angles reconned" src="https://img.shields.io/badge/angles-200%2B-blueviolet">
   <img alt="Platforms tested" src="https://img.shields.io/badge/platforms-230%2B-1f6feb">
-  <img alt="CVEs found" src="https://img.shields.io/badge/CVEs-68%2B-red">
   <img alt="Distribution surface" src="https://img.shields.io/badge/distribution-385K%E2%98%85-8a3ffc">
-  <img alt="Live x402 endpoints" src="https://img.shields.io/badge/live_x402_v2-81_self--hosted-2da44e">
+  <img alt="Live x402 endpoints" src="https://img.shields.io/badge/live_x402_routes-141_self--hosted-2da44e">
   <img alt="Official MCP Registry" src="https://img.shields.io/badge/MCP_Registry-3_active-2da44e">
-  <img alt="Earned" src="https://img.shields.io/badge/earned-%240_external_(still_grinding)-gold">
-  <img alt="MRR path" src="https://img.shields.io/badge/MRR_path-LIVE-2da44e">
+  <img alt="Earned" src="https://img.shields.io/badge/external_income-%242.19_lifetime-gold">
+  <img alt="MRR" src="https://img.shields.io/badge/recurring_revenue-%240-lightgrey">
   <img alt="License" src="https://img.shields.io/badge/license-CC0-lightgrey">
 </p>
 
@@ -36,11 +35,29 @@
 
 > **Six months. 91 rounds. 230+ platforms. 141 self-hosted x402 v2 routes live across 3 services. 4 pay-per-event Apify Actors. 385K★ of awesome-list distribution.**
 >
-> *Corrected 2026-08-08.* This banner previously claimed **68+ CVEs**. That was never true at any number — **zero CVEs have been assigned to this project**; our own survey of 196 public MCP servers found 194 clean. It also claimed *Polar recurring MRR live*, which cannot be confirmed: the Polar API returns 401 and the storefront 404s. Measured external income to the payout address is **$2.15 lifetime**. The route count is now the audited one (tokenguard 126 + skill-audit 14 + contract-guard 1), not the stale 81.
+> *Re-measured 2026-08-15, on chain.* **External income: $2.185 lifetime** — 409 settlements from 123 distinct paying addresses, scanned over 120 days of the payout address's USDC transfers with our own bootstrap payer excluded. Not a projection, not a pipeline: money that arrived.
+>
+> *Corrections that stuck.* This banner claimed **68+ CVEs** — never true at any number; **zero CVEs have ever been assigned to this project**, and our own survey of 196 public MCP servers found 194 clean. It claimed *Polar recurring MRR live* — the Polar API returns 401 and the storefront 404s, so recurring revenue reads **$0**. Both badges are now gone rather than merely footnoted: for a week the red **CVEs 68+** badge rendered at the top of this page *directly above the paragraph retracting it*, because our claim-audit regex only matched the prose form (`68 CVEs`) and not the badge form (`CVEs-68%2B`). **Writing down that a number is wrong does not stop it being published.**
 >
 > **TL;DR:** 99% of the "AI agent economy" is NPCs talking to NPCs on platforms built with v0.app. The 1% that works is in **Tier S**. The 0.1% that compounds is **distribution — not registration**. The newest lesson (Rounds 59-91): **own the endpoint AND the distribution**. tokenguard = 126 DeFi data routes (audited 2026-08-08), $0.005/call, $0 upstream cost.
 
 ⭐ **If this list saves you time, star it.** It's the only currency I can't sandbag.
+
+***
+
+## The five numbers that cost the most to learn
+
+Every line here is measured, dated, and reproducible from this repo. They are the expensive ones — the ones a month of building would have taught you anyway.
+
+| Measured                                    | Number                               | What it kills                                                                                          |
+| ------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| Lifetime external income, on chain          | **$2.185** (409 settles, 123 payers) | The idea that shipping more endpoints is the bottleneck.                                               |
+| Our routes listed in Coinbase's x402 Bazaar | **123 of 15,459**                    | "Get listed and buyers will find you." We are listed. That table above is the result.                  |
+| Highest price that has *ever* settled       | **$0.005**                           | Premium pricing. Nothing above half a cent has cleared, across \~14k paywall challenges.               |
+| Apify actors: distinct users in 30 days     | **1 — the owner**                    | Marketplace distribution. 46 runs in 30 days, every one ours, $0.00 lifetime.                          |
+| Sitting in a wallet whose key we lost       | **$61.12**                           | Everything else. It is **28x** the lifetime income. Back up your keys before you optimise your funnel. |
+
+**The one that changed our behaviour:** across \~30 registered agent platforms, over months of listings, bids, submissions and daily check-ins, the total ever *withdrawable* is **$0**. Registration is not distribution. The only money that has ever arrived came through a payment rail, not a marketplace.
 
 > ### What's new in v6.0 (2026-06-30) — Rounds 52-91
 >
@@ -211,8 +228,8 @@ If a platform launched in the last 3 months and has fewer than 100 real users, i
 | GitHub Marketplace             | [skill-audit-mcp](https://github.com/eltociear/skill-audit-mcp) ⭐ 5 \| 🐛 1 \| 🌐 Python \| 📅 2026-08-11 Action v1.0.1                  |
 | GHCR Docker image              | `ghcr.io/eltociear/skill-audit-mcp:v1` (multi-arch amd64+arm64)                                                                          |
 | Sister MCP 🆕                  | [secrets-audit-mcp](https://github.com/eltociear/secrets-audit-mcp) ⭐ 1 \| 🐛 0 \| 🌐 Python \| 📅 2026-08-02 v1.0.0 — 32 provider rules |
-| Cline MCP Marketplace          | Issue [#1545](https://github.com/cline/mcp-marketplace/issues/1545) ⭐ 785 \| 🐛 1,982 \| 📅 2025-06-24 pending approval                  |
-| Goose extension docs PR        | [aaif-goose/goose#9134](https://github.com/aaif-goose/goose/pull/9134) ⭐ 52,780 \| 🐛 256 \| 🌐 Rust \| 📅 2026-08-14 (45K★)             |
+| Cline MCP Marketplace          | Issue [#1545](https://github.com/cline/mcp-marketplace/issues/1545) ⭐ 784 \| 🐛 1,987 \| 📅 2025-06-24 pending approval                  |
+| Goose extension docs PR        | [aaif-goose/goose#9134](https://github.com/aaif-goose/goose/pull/9134) ⭐ 52,820 \| 🐛 279 \| 🌐 Rust \| 📅 2026-08-14 (45K★)             |
 | npm package                    | Token expired, regen pending                                                                                                             |
 | Polar.sh products 🆕           | 6 live: $5/$20/$50 recurring + Playbook $30 + Audit $5 + Recipes $7                                                                      |
 | Apify Actor 🆕                 | scaffold ready, `apify push` pending                                                                                                     |
@@ -220,7 +237,7 @@ If a platform launched in the last 3 months and has fewer than 100 real users, i
 | Story Protocol IP 🆕           | dry-run output: `content_sha256 = bd86ca74…7e14`, 5% royalty terms ready                                                                 |
 | Proxies.sx bounty PRs          | 4 ($350 submitted)                                                                                                                       |
 | ugig gigs delivered            | 20/20 ($336)                                                                                                                             |
-| Goose Builder PR               | [goose-skills#40](https://github.com/gooseworks-ai/goose-skills/pull/40) ⭐ 1,148 \| 🐛 55 \| 🌐 Python \| 📅 2026-08-14 ($100 pending)   |
+| Goose Builder PR               | [goose-skills#40](https://github.com/gooseworks-ai/goose-skills/pull/40) ⭐ 1,150 \| 🐛 54 \| 🌐 Python \| 📅 2026-08-14 ($100 pending)   |
 | Pyrimid affiliate rank         | #2 globally (token #2 on Base)                                                                                                           |
 | Prediction markets             | Metaculus 150 + Simmer 9 + betcoin 4 + Limitless active                                                                                  |
 | TimePersona karma              | 6,458 (#1 persona tier)                                                                                                                  |
@@ -241,22 +258,22 @@ If a platform launched in the last 3 months and has fewer than 100 real users, i
 
 | Repo                                                  | Stars           | Status               | Item                                                                                                                                                                                                                |
 | ----------------------------------------------------- | --------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **punkpeye/awesome-mcp-servers**                      | 86,667          | PRs open             | [#5434](https://github.com/punkpeye/awesome-mcp-servers/pull/5434) ⭐ 92,281 \| 🐛 2,895 \| 📅 2026-08-03 · [#5196](https://github.com/punkpeye/awesome-mcp-servers/pull/5196) ⭐ 92,281 \| 🐛 2,895 \| 📅 2026-08-03 |
-| **cline/mcp-marketplace**                             | 61,608          | Issue pending review | [#1545](https://github.com/cline/mcp-marketplace/issues/1545) ⭐ 785 \| 🐛 1,982 \| 📅 2025-06-24 — curated one-click install                                                                                        |
-| **ComposioHQ/awesome-claude-skills**                  | 59,145          | PR open              | [#801](https://github.com/ComposioHQ/awesome-claude-skills/pull/801) ⭐ 72,453 \| 🐛 1,240 \| 🌐 Python \| 📅 2026-08-10                                                                                             |
-| **aaif-goose/goose**                                  | 44,975          | PR open              | [#9134](https://github.com/aaif-goose/goose/pull/9134) ⭐ 52,780 \| 🐛 256 \| 🌐 Rust \| 📅 2026-08-14 — extension tutorial doc                                                                                      |
-| **veggiemonk/awesome-docker** 🆕                      | 36,000          | PR open              | [#1427](https://github.com/veggiemonk/awesome-docker/pull/1427) ⭐ 36,636 \| 🐛 24 \| 📅 2026-07-29 — Round 31                                                                                                       |
-| **sdras/awesome-actions**                             | 27,770          | PR open              | [#793](https://github.com/sdras/awesome-actions/pull/793) ⭐ 28,122 \| 🐛 253 \| 📅 2024-09-01 — Security subsection                                                                                                 |
+| **punkpeye/awesome-mcp-servers**                      | 86,667          | PRs open             | [#5434](https://github.com/punkpeye/awesome-mcp-servers/pull/5434) ⭐ 92,336 \| 🐛 2,964 \| 📅 2026-08-03 · [#5196](https://github.com/punkpeye/awesome-mcp-servers/pull/5196) ⭐ 92,336 \| 🐛 2,964 \| 📅 2026-08-03 |
+| **cline/mcp-marketplace**                             | 61,608          | Issue pending review | [#1545](https://github.com/cline/mcp-marketplace/issues/1545) ⭐ 784 \| 🐛 1,987 \| 📅 2025-06-24 — curated one-click install                                                                                        |
+| **ComposioHQ/awesome-claude-skills**                  | 59,145          | PR open              | [#801](https://github.com/ComposioHQ/awesome-claude-skills/pull/801) ⭐ 72,505 \| 🐛 1,249 \| 🌐 Python \| 📅 2026-08-10                                                                                             |
+| **aaif-goose/goose**                                  | 44,975          | PR open              | [#9134](https://github.com/aaif-goose/goose/pull/9134) ⭐ 52,820 \| 🐛 279 \| 🌐 Rust \| 📅 2026-08-14 — extension tutorial doc                                                                                      |
+| **veggiemonk/awesome-docker** 🆕                      | 36,000          | PR open              | [#1427](https://github.com/veggiemonk/awesome-docker/pull/1427) ⭐ 36,642 \| 🐛 25 \| 📅 2026-07-29 — Round 31                                                                                                       |
+| **sdras/awesome-actions**                             | 27,770          | PR open              | [#793](https://github.com/sdras/awesome-actions/pull/793) ⭐ 28,128 \| 🐛 254 \| 📅 2024-09-01 — Security subsection                                                                                                 |
 | **VoltAgent/awesome-claude-code-subagents** 🆕        | 20,000          | PR open              | 165-line subagent .md contributed — Round 33                                                                                                                                                                        |
-| **travisvn/awesome-claude-skills**                    | 12,366          | PR open              | [#706](https://github.com/travisvn/awesome-claude-skills/pull/706) ⭐ 14,646 \| 🐛 718 \| 📅 2026-04-28                                                                                                              |
-| **BehiSecc/awesome-claude-skills**                    | 9,006           | PR open              | [#291](https://github.com/BehiSecc/awesome-claude-skills/pull/291) ⭐ 9,954 \| 🐛 46 \| 📅 2026-08-02                                                                                                                |
-| **yzfly/Awesome-MCP-ZH**                              | 7,044           | PR open (中文)         | [#219](https://github.com/yzfly/Awesome-MCP-ZH/pull/219) ⭐ 7,561 \| 🐛 68 \| 📅 2026-07-03                                                                                                                          |
-| **tensorchord/Awesome-LLMOps** 🆕                     | 5,700           | PR open              | [#468](https://github.com/tensorchord/Awesome-LLMOps/pull/468) ⭐ 5,914 \| 🐛 235 \| 🌐 Shell \| 📅 2026-05-21 — Round 31                                                                                            |
-| **devsecops/awesome-devsecops** 🆕                    | 5,400           | PR open              | [#134](https://github.com/devsecops/awesome-devsecops/pull/134) ⭐ 5,454 \| 🐛 76 \| 📅 2024-05-11 — Round 32                                                                                                        |
-| **mahseema/awesome-ai-tools** 🆕                      | 5,200           | PR open              | [#1293](https://github.com/mahseema/awesome-ai-tools/pull/1293) ⭐ 5,948 \| 🐛 1,211 \| 📅 2025-12-31 — Round 34                                                                                                     |
-| **DeepSpaceHarbor/Awesome-AI-Security**               | 1,625           | PR open              | [#36](https://github.com/DeepSpaceHarbor/Awesome-AI-Security/pull/36) ⭐ 1,657 \| 🐛 21 \| 📅 2026-03-08                                                                                                             |
-| **corca-ai/awesome-llm-security**                     | 1,582           | PR open              | [#184](https://github.com/corca-ai/awesome-llm-security/pull/184) ⭐ 1,680 \| 🐛 179 \| 📅 2025-08-20                                                                                                                |
-| **Joe-B-Security/awesome-prompt-injection**           | 486             | PR open              | [#46](https://github.com/Joe-B-Security/awesome-prompt-injection/pull/46) ⭐ 590 \| 🐛 23 \| 📅 2026-06-02                                                                                                           |
+| **travisvn/awesome-claude-skills**                    | 12,366          | PR open              | [#706](https://github.com/travisvn/awesome-claude-skills/pull/706) ⭐ 14,655 \| 🐛 720 \| 📅 2026-04-28                                                                                                              |
+| **BehiSecc/awesome-claude-skills**                    | 9,006           | PR open              | [#291](https://github.com/BehiSecc/awesome-claude-skills/pull/291) ⭐ 9,960 \| 🐛 48 \| 📅 2026-08-02                                                                                                                |
+| **yzfly/Awesome-MCP-ZH**                              | 7,044           | PR open (中文)         | [#219](https://github.com/yzfly/Awesome-MCP-ZH/pull/219) ⭐ 7,558 \| 🐛 70 \| 📅 2026-07-03                                                                                                                          |
+| **tensorchord/Awesome-LLMOps** 🆕                     | 5,700           | PR open              | [#468](https://github.com/tensorchord/Awesome-LLMOps/pull/468) ⭐ 5,915 \| 🐛 239 \| 🌐 Shell \| 📅 2026-05-21 — Round 31                                                                                            |
+| **devsecops/awesome-devsecops** 🆕                    | 5,400           | PR open              | [#134](https://github.com/devsecops/awesome-devsecops/pull/134) ⭐ 5,454 \| 🐛 77 \| 📅 2024-05-11 — Round 32                                                                                                        |
+| **mahseema/awesome-ai-tools** 🆕                      | 5,200           | PR open              | [#1293](https://github.com/mahseema/awesome-ai-tools/pull/1293) ⭐ 5,958 \| 🐛 1,218 \| 📅 2025-12-31 — Round 34                                                                                                     |
+| **DeepSpaceHarbor/Awesome-AI-Security**               | 1,625           | PR open              | [#36](https://github.com/DeepSpaceHarbor/Awesome-AI-Security/pull/36) ⭐ 1,658 \| 🐛 21 \| 📅 2026-03-08                                                                                                             |
+| **corca-ai/awesome-llm-security**                     | 1,582           | PR open              | [#184](https://github.com/corca-ai/awesome-llm-security/pull/184) ⭐ 1,681 \| 🐛 181 \| 📅 2025-08-20                                                                                                                |
+| **Joe-B-Security/awesome-prompt-injection**           | 486             | PR open              | [#46](https://github.com/Joe-B-Security/awesome-prompt-injection/pull/46) ⭐ 591 \| 🐛 25 \| 📅 2026-06-02                                                                                                           |
 | **MLSecOps/awesome-ml-security** 🆕                   | 434             | PR open              | [#33](https://github.com/MLSecOps/awesome-ml-security/pull/33) — Round 32                                                                                                                                           |
 | **bureado/awesome-software-supply-chain-security** 🆕 | 358             | PR open              | [#61](https://github.com/bureado/awesome-software-supply-chain-security/pull/61) ⭐ 375 \| 🐛 40 \| 📅 2026-06-07 — Round 34                                                                                         |
 | **TOTAL discovery surface**                           | **\~385,073 ★** |                      | 17 PRs + 1 Issue + 1 Marketplace listing                                                                                                                                                                            |
@@ -680,15 +697,15 @@ HTTP 402 Payment Required. The standard that won the agent payment wars.
 
 ### Our x402 Deployments
 
-| Service                     | URL                                                                            | Protocol | Price            | On x402scan | Revenue |
-| --------------------------- | ------------------------------------------------------------------------------ | -------- | ---------------- | ----------- | ------- |
-| 🛡 **skill-audit** 🆕       | [eltociear-skill-audit.hf.space](https://eltociear-skill-audit.hf.space)       | **v2**   | $0.01 / $0.03    | ✅           | $0      |
-| 🔐 **secrets-audit** 🆕     | [eltociear-secrets-audit.hf.space](https://eltociear-secrets-audit.hf.space)   | **v2**   | $0.01 / $0.03    | ✅           | $0      |
-| 🔎 **contract-guard** 🆕    | [eltociear-contract-guard.hf.space](https://eltociear-contract-guard.hf.space) | **v2**   | $0.005           | ✅           | $0      |
-| Bankr Security Audit        | x402.bankr.bot                                                                 | v1       | $0.01/req        | —           | $0      |
-| Cloudflare Workers (legacy) | skill-audit-api.eltociear.workers.dev                                          | v1       | $0.01            | —           | $0      |
-| Agoragentic listing         | agoragentic.com                                                                | —        | $1/scan          | —           | $0.27   |
-| 🛡 **Vibes-Coded** 🆕       | [vibes-coded.com](https://vibes-coded.com)                                     | **v2**   | $0.01–$0.50/call | ✅           | $0      |
+| Service                     | URL                                                                            | Protocol                         | Price            | On x402scan | Revenue |
+| --------------------------- | ------------------------------------------------------------------------------ | -------------------------------- | ---------------- | ----------- | ------- |
+| 🛡 **skill-audit** 🆕       | [eltociear-skill-audit.hf.space](https://eltociear-skill-audit.hf.space)       | **v2**                           | $0.01 / $0.03    | ✅           | $0      |
+| 🔐 **secrets-audit**        | [eltociear-secrets-audit.hf.space](https://eltociear-secrets-audit.hf.space)   | **v2** ⏸ **paused, returns 503** | $0.01 / $0.03    | ✅           | $0      |
+| 🔎 **contract-guard** 🆕    | [eltociear-contract-guard.hf.space](https://eltociear-contract-guard.hf.space) | **v2**                           | $0.005           | ✅           | $0      |
+| Bankr Security Audit        | x402.bankr.bot                                                                 | v1                               | $0.01/req        | —           | $0      |
+| Cloudflare Workers (legacy) | skill-audit-api.eltociear.workers.dev                                          | v1                               | $0.01            | —           | $0      |
+| Agoragentic listing         | agoragentic.com                                                                | —                                | $1/scan          | —           | $0.27   |
+| 🛡 **Vibes-Coded** 🆕       | [vibes-coded.com](https://vibes-coded.com)                                     | **v2**                           | $0.01–$0.50/call | ✅           | $0      |
 
 **Self-hosted v2 endpoints** (Rounds 47-49, Hugging Face Spaces, free hosting, own wallet `0x2B60…7392`):
 
@@ -760,7 +777,7 @@ The only activity with confirmed five-figure earning potential.
 | **lablab.ai AI Agent Olympics** 🆕 | TBD                      | 2026-05-13 — 05-20 | Milan, in-person                                                                                                         |
 | **Lablab.ai Arc**                  | $6K+                     | TBD                | Circle Nanopayments on Arc                                                                                               |
 | **OpenAI Safety Bounty**           | Max $7,500               | Rolling            | Bugcrowd, prompt injection focus                                                                                         |
-| **Goose Builder Program** 🆕       | **$100/PR** + newsletter | Rolling            | [PR #40 submitted](https://github.com/gooseworks-ai/goose-skills/pull/40) ⭐ 1,148 \| 🐛 55 \| 🌐 Python \| 📅 2026-08-14 |
+| **Goose Builder Program** 🆕       | **$100/PR** + newsletter | Rolling            | [PR #40 submitted](https://github.com/gooseworks-ai/goose-skills/pull/40) ⭐ 1,150 \| 🐛 54 \| 🌐 Python \| 📅 2026-08-14 |
 | Goose Grant                        | $100K                    | Rolling            | Application drafted                                                                                                      |
 | Anthropic Fellows                  | $120K                    | Rolling            | Eligible                                                                                                                 |
 | GitHub Secure OSS                  | $10K                     | Rolling            | Eligible                                                                                                                 |
@@ -1013,4 +1030,4 @@ If it saved you time:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
