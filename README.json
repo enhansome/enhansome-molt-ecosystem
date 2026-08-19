@@ -200,7 +200,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T11:37:06Z",
+            "last_commit": "2026-08-19T05:09:11Z",
             "owner": "eltociear",
             "repo": "skill-audit-mcp",
             "stars": 5
@@ -226,9 +226,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T05:50:30.756Z",
+    "last_updated": "2026-08-19T05:52:10.225Z",
     "original_repository": "eltociear/awesome-molt-ecosystem",
-    "original_repository_sha": "49c86133dd936dc2d24d6efee5ff1ad076556c01",
+    "original_repository_sha": "c74d028d5a2cb091e702ff9cbd56f4c88f9a3ecc",
     "enhanced_repository": "enhansome/enhansome-molt-ecosystem",
     "enhanced_repository_description": null,
     "title": "Awesome molt ecosystem with stars"
