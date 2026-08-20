@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-04T21:06:43Z",
                 "owner": "Metaculus",
                 "repo": "metac-bot-template",
-                "stars": 63
+                "stars": 64
               }
             },
             {
@@ -45,10 +45,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:41:50.349Z",
+    "last_updated": "2026-08-20T05:52:33.672Z",
     "original_repository": "eltociear/awesome-molt-ecosystem",
     "original_repository_id": 1148550616,
-    "original_repository_sha": "c74d028d5a2cb091e702ff9cbd56f4c88f9a3ecc",
+    "original_repository_sha": "7c68dd5f7b1f2bca642afb5c150f03a006947115",
     "enhanced_repository": "enhansome/enhansome-molt-ecosystem",
     "enhanced_repository_description": null,
     "title": "Awesome molt ecosystem with stars"
