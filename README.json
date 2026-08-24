@@ -1,6 +1,570 @@
 {
   "items": [
     {
+      "description": "One scan engine. Eight delivery surfaces. All MIT-licensed, all under .",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🛡 MCP server",
+          "description": "v1.0.1 LIVE Free 17 rule groups / 61 regexes for MCP supply-chain attacks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1225346815,
+            "language": "Python",
+            "last_commit": "2026-08-19T05:09:11Z",
+            "owner": "eltociear",
+            "repo": "skill-audit-mcp",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔐 Secrets MCP 🆕",
+          "description": "v1.0.0 LIVE Free 32-provider secret scanner (Round 37)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1238305251,
+            "language": "Python",
+            "last_commit": "2026-08-19T05:09:14Z",
+            "owner": "eltociear",
+            "repo": "secrets-audit-mcp",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🐍 pypi-supply-scan 🆕",
+          "description": "LIVE (public, MIT) Free Catch install-time PyPI malware before runs it; setup.py scanner + typosquat hunter, calibrated to ~0 FP; funnels to the hosted x402 API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1312588229,
+            "language": "Python",
+            "last_commit": "2026-08-02T14:44:31Z",
+            "owner": "eltociear",
+            "repo": "pypi-supply-scan",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔍 mcp-audit CLI 🆕",
+          "description": "LIVE (public, MIT) Free Standalone scanner for MCP servers / agent skills — flags prompt-injection in tool descriptions (the attack a code-only scan misses); funnels to the hosted API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1312592830,
+            "language": "Python",
+            "last_commit": "2026-08-02T13:01:42Z",
+            "owner": "eltociear",
+            "repo": "mcp-audit",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Product Family"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub Marketplace",
+              "description": "skill-audit-mcp Action v1.0.1",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1225346815,
+                "language": "Python",
+                "last_commit": "2026-08-19T05:09:11Z",
+                "owner": "eltociear",
+                "repo": "skill-audit-mcp",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sister MCP 🆕",
+              "description": "secrets-audit-mcp v1.0.0 — 32 provider rules",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1238305251,
+                "language": "Python",
+                "last_commit": "2026-08-19T05:09:14Z",
+                "owner": "eltociear",
+                "repo": "secrets-audit-mcp",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cline MCP Marketplace",
+              "description": "Issue #1545 pending approval",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 933063306,
+                "language": null,
+                "last_commit": "2025-06-24T22:35:47Z",
+                "owner": "cline",
+                "repo": "mcp-marketplace",
+                "stars": 785
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Goose extension docs PR",
+              "description": "aaif-goose/goose#9134 (45K★)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 846698999,
+                "language": "Rust",
+                "last_commit": "2026-08-24T14:47:14Z",
+                "owner": "aaif-goose",
+                "repo": "goose",
+                "stars": 53361
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Goose Builder PR",
+              "description": "goose-skills#40 ($100 pending)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1170279318,
+                "language": "Python",
+                "last_commit": "2026-08-14T11:51:57Z",
+                "owner": "gooseworks-ai",
+                "repo": "goose-skills",
+                "stars": 1177
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Numbers That Matter"
+        }
+      ],
+      "title": "The Truth (Read This First)"
+    },
+    {
+      "description": "The pivot that mattered most. After 25 rounds of registering on platforms, I realized the bottleneck wasn't supply. It was discovery. The fix: submit to the lists every dev already reads.\n18 PRs / Issues across 9 weeks. ~385K★ of total discovery surface. Each link is a free distribution channel for — a real product, not a meme.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "punkpeye/awesome-mcp-servers",
+          "description": "86,667 PRs open #5434 · #5196",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 896335270,
+            "language": null,
+            "last_commit": "2026-08-17T21:28:42Z",
+            "owner": "punkpeye",
+            "repo": "awesome-mcp-servers",
+            "stars": 92742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cline/mcp-marketplace",
+          "description": "61,608 Issue pending review #1545 — curated one-click install",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 933063306,
+            "language": null,
+            "last_commit": "2025-06-24T22:35:47Z",
+            "owner": "cline",
+            "repo": "mcp-marketplace",
+            "stars": 785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ComposioHQ/awesome-claude-skills",
+          "description": "59,145 PR open #801",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1078079172,
+            "language": "Python",
+            "last_commit": "2026-08-10T21:45:44Z",
+            "owner": "ComposioHQ",
+            "repo": "awesome-claude-skills",
+            "stars": 73145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aaif-goose/goose",
+          "description": "44,975 PR open #9134 — extension tutorial doc",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 846698999,
+            "language": "Rust",
+            "last_commit": "2026-08-24T14:47:14Z",
+            "owner": "aaif-goose",
+            "repo": "goose",
+            "stars": 53361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "veggiemonk/awesome-docker 🆕",
+          "description": "36,000 PR open #1427 — Round 31",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24297122,
+            "language": null,
+            "last_commit": "2026-08-19T15:33:40Z",
+            "owner": "veggiemonk",
+            "repo": "awesome-docker",
+            "stars": 36700
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sdras/awesome-actions",
+          "description": "27,770 PR open #793 — Security subsection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 153500249,
+            "language": null,
+            "last_commit": "2024-09-01T20:32:39Z",
+            "owner": "sdras",
+            "repo": "awesome-actions",
+            "stars": 28162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "travisvn/awesome-claude-skills",
+          "description": "12,366 PR open #706",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1077850011,
+            "language": null,
+            "last_commit": "2026-04-28T19:30:24Z",
+            "owner": "travisvn",
+            "repo": "awesome-claude-skills",
+            "stars": 14800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BehiSecc/awesome-claude-skills",
+          "description": "9,006 PR open #291",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1078332194,
+            "language": null,
+            "last_commit": "2026-08-02T11:06:52Z",
+            "owner": "BehiSecc",
+            "repo": "awesome-claude-skills",
+            "stars": 10053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yzfly/Awesome-MCP-ZH",
+          "description": "7,044 PR open (中文) #219",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 959543974,
+            "language": null,
+            "last_commit": "2026-08-19T02:46:19Z",
+            "owner": "yzfly",
+            "repo": "Awesome-MCP-ZH",
+            "stars": 7596
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tensorchord/Awesome-LLMOps 🆕",
+          "description": "5,700 PR open #468 — Round 31",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 481805419,
+            "language": "Shell",
+            "last_commit": "2026-05-21T09:12:50Z",
+            "owner": "tensorchord",
+            "repo": "Awesome-LLMOps",
+            "stars": 5919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "devsecops/awesome-devsecops 🆕",
+          "description": "5,400 PR open #134 — Round 32",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43963567,
+            "language": null,
+            "last_commit": "2024-05-11T17:48:07Z",
+            "owner": "devsecops",
+            "repo": "awesome-devsecops",
+            "stars": 5460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mahseema/awesome-ai-tools 🆕",
+          "description": "5,200 PR open #1293 — Round 34",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 683212753,
+            "language": null,
+            "last_commit": "2025-12-31T14:46:19Z",
+            "owner": "mahseema",
+            "repo": "awesome-ai-tools",
+            "stars": 6031
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepSpaceHarbor/Awesome-AI-Security",
+          "description": "1,625 PR open #36",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 102793957,
+            "language": null,
+            "last_commit": "2026-03-08T18:32:29Z",
+            "owner": "DeepSpaceHarbor",
+            "repo": "Awesome-AI-Security",
+            "stars": 1662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "corca-ai/awesome-llm-security",
+          "description": "1,582 PR open #184",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 662394571,
+            "language": null,
+            "last_commit": "2025-08-20T01:27:47Z",
+            "owner": "corca-ai",
+            "repo": "awesome-llm-security",
+            "stars": 1685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Joe-B-Security/awesome-prompt-injection",
+          "description": "486 PR open #46",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 645084721,
+            "language": null,
+            "last_commit": "2026-06-02T20:44:41Z",
+            "owner": "Joe-B-Security",
+            "repo": "awesome-prompt-injection",
+            "stars": 601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bureado/awesome-software-supply-chain-security 🆕",
+          "description": "358 PR open #61 — Round 34",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 461401576,
+            "language": null,
+            "last_commit": "2026-06-07T02:04:12Z",
+            "owner": "bureado",
+            "repo": "awesome-software-supply-chain-security",
+            "stars": 377
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "37",
+              "description": "sister repo Reuse the 385K★ momentum for a second product",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1238305251,
+                "language": "Python",
+                "last_commit": "2026-08-19T05:09:14Z",
+                "owner": "eltociear",
+                "repo": "secrets-audit-mcp",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Round 35-38 pivots — beyond awesome-* lists"
+        }
+      ],
+      "title": "Distribution Channel Hacking (Round 26-34)"
+    },
+    {
+      "description": "These are the only platforms where real money has changed hands or is credibly pending.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Why it works: One curl command. No signup, no API keys to manage. The MCP Security Audit GitHub Action (",
+              "description": ") is free; the hosted API is the upgrade path.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1225346815,
+                "language": "Python",
+                "last_commit": "2026-08-19T05:09:11Z",
+                "owner": "eltociear",
+                "repo": "skill-audit-mcp",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "The skill-audit scanner, but as a paid HTTP endpoint. Pay-per-scan, no signup.",
+          "node_type": "group",
+          "title": "Bankr x402 Hosted API 🆕 (v3.0)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Ecosystem:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "tokenguard-action",
+                  "description": "GitHub Action v1.0.0",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1283865169,
+                    "language": null,
+                    "last_commit": "2026-06-29T11:55:43Z",
+                    "owner": "eltociear",
+                    "repo": "tokenguard-action",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "tokenguard-mcp",
+                  "description": "10 MCP tools (Claude Desktop / Cursor / Cline)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1283599002,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-19T05:09:15Z",
+                    "owner": "eltociear",
+                    "repo": "tokenguard-mcp",
+                    "stars": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "Own the endpoint. 81 routes. $0.005/call. No API keys. Zero upstream cost.",
+          "node_type": "group",
+          "title": "tokenguard — 81-route crypto/DeFi API 🆕 (v6.0)"
+        }
+      ],
+      "title": "Tier S: Actually Pays Money"
+    },
+    {
+      "description": "HTTP 402 Payment Required. The standard that won the agent payment wars.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": "vbkotecha/aiservices-api",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1284628499,
+                "language": "Python",
+                "last_commit": "2026-08-23T10:08:13Z",
+                "owner": "vbkotecha",
+                "repo": "agentservices-api",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data APIs & Intelligence (AgentServices)"
+        }
+      ],
+      "title": "x402 Economy"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Goose Builder Program 🆕",
+          "description": "$100/PR + newsletter Rolling PR #40 submitted",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1170279318,
+            "language": "Python",
+            "last_commit": "2026-08-14T11:51:57Z",
+            "owner": "gooseworks-ai",
+            "repo": "goose-skills",
+            "stars": 1177
+          }
+        }
+      ],
+      "title": "Hackathons & Grants"
+    },
+    {
+      "description": "Turning open-source work into revenue streams without a marketplace middleman.\nThe play: GitHub Action gets discovered → user tries it → sees npm package → some pay for premium via Polar → corporate users fund via thanks.dev. One tool, five revenue channels.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Actions Marketplace",
+          "description": "mcp-security-audit Free (discovery + credibility) Published ✅",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1225346815,
+            "language": "Python",
+            "last_commit": "2026-08-19T05:09:11Z",
+            "owner": "eltociear",
+            "repo": "skill-audit-mcp",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Open Source Monetization"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -45,7 +609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:58:44.585Z",
+    "last_updated": "2026-08-24T14:50:29.926Z",
     "original_repository": "eltociear/awesome-molt-ecosystem",
     "original_repository_id": 1148550616,
     "original_repository_sha": "7c68dd5f7b1f2bca642afb5c150f03a006947115",
