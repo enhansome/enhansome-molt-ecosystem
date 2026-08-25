@@ -125,10 +125,10 @@
                 "archived": false,
                 "id": 846698999,
                 "language": "Rust",
-                "last_commit": "2026-08-24T14:47:14Z",
+                "last_commit": "2026-08-25T05:22:09Z",
                 "owner": "aaif-goose",
                 "repo": "goose",
-                "stars": 53361
+                "stars": 53406
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-14T11:51:57Z",
                 "owner": "gooseworks-ai",
                 "repo": "goose-skills",
-                "stars": 1177
+                "stars": 1178
               }
             }
           ],
@@ -169,7 +169,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92742
+            "stars": 92764
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2026-08-10T21:45:44Z",
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 73145
+            "stars": 73191
           }
         },
         {
@@ -211,10 +211,10 @@
             "archived": false,
             "id": 846698999,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:47:14Z",
+            "last_commit": "2026-08-25T05:22:09Z",
             "owner": "aaif-goose",
             "repo": "goose",
-            "stars": 53361
+            "stars": 53406
           }
         },
         {
@@ -229,7 +229,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36700
+            "stars": 36707
           }
         },
         {
@@ -244,7 +244,7 @@
             "last_commit": "2024-09-01T20:32:39Z",
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28162
+            "stars": 28164
           }
         },
         {
@@ -259,7 +259,7 @@
             "last_commit": "2026-04-28T19:30:24Z",
             "owner": "travisvn",
             "repo": "awesome-claude-skills",
-            "stars": 14800
+            "stars": 14806
           }
         },
         {
@@ -274,7 +274,7 @@
             "last_commit": "2026-08-02T11:06:52Z",
             "owner": "BehiSecc",
             "repo": "awesome-claude-skills",
-            "stars": 10053
+            "stars": 10056
           }
         },
         {
@@ -304,7 +304,7 @@
             "last_commit": "2026-05-21T09:12:50Z",
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5919
+            "stars": 5920
           }
         },
         {
@@ -319,7 +319,7 @@
             "last_commit": "2024-05-11T17:48:07Z",
             "owner": "devsecops",
             "repo": "awesome-devsecops",
-            "stars": 5460
+            "stars": 5461
           }
         },
         {
@@ -334,7 +334,7 @@
             "last_commit": "2025-12-31T14:46:19Z",
             "owner": "mahseema",
             "repo": "awesome-ai-tools",
-            "stars": 6031
+            "stars": 6035
           }
         },
         {
@@ -401,7 +401,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "37",
+              "title": "secrets-audit-mcp",
               "description": "sister repo Reuse the 385K★ momentum for a second product",
               "children": [],
               "repo_info": {
@@ -501,8 +501,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
-              "description": "vbkotecha/aiservices-api",
+              "title": "vbkotecha/aiservices-api",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -537,7 +537,7 @@
             "last_commit": "2026-08-14T11:51:57Z",
             "owner": "gooseworks-ai",
             "repo": "goose-skills",
-            "stars": 1177
+            "stars": 1178
           }
         }
       ],
@@ -609,7 +609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:50:29.926Z",
+    "last_updated": "2026-08-25T06:08:51.733Z",
     "original_repository": "eltociear/awesome-molt-ecosystem",
     "original_repository_id": 1148550616,
     "original_repository_sha": "7c68dd5f7b1f2bca642afb5c150f03a006947115",
