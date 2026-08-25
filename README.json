@@ -125,10 +125,10 @@
                 "archived": false,
                 "id": 846698999,
                 "language": "Rust",
-                "last_commit": "2026-08-25T05:22:09Z",
+                "last_commit": "2026-08-25T07:57:17Z",
                 "owner": "aaif-goose",
                 "repo": "goose",
-                "stars": 53406
+                "stars": 53409
               }
             },
             {
@@ -169,7 +169,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92764
+            "stars": 92769
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2026-08-10T21:45:44Z",
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 73191
+            "stars": 73197
           }
         },
         {
@@ -211,10 +211,10 @@
             "archived": false,
             "id": 846698999,
             "language": "Rust",
-            "last_commit": "2026-08-25T05:22:09Z",
+            "last_commit": "2026-08-25T07:57:17Z",
             "owner": "aaif-goose",
             "repo": "goose",
-            "stars": 53406
+            "stars": 53409
           }
         },
         {
@@ -229,7 +229,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36707
+            "stars": 36709
           }
         },
         {
@@ -259,7 +259,7 @@
             "last_commit": "2026-04-28T19:30:24Z",
             "owner": "travisvn",
             "repo": "awesome-claude-skills",
-            "stars": 14806
+            "stars": 14808
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2026-08-19T02:46:19Z",
             "owner": "yzfly",
             "repo": "Awesome-MCP-ZH",
-            "stars": 7596
+            "stars": 7597
           }
         },
         {
@@ -334,7 +334,7 @@
             "last_commit": "2025-12-31T14:46:19Z",
             "owner": "mahseema",
             "repo": "awesome-ai-tools",
-            "stars": 6035
+            "stars": 6036
           }
         },
         {
@@ -349,7 +349,7 @@
             "last_commit": "2026-03-08T18:32:29Z",
             "owner": "DeepSpaceHarbor",
             "repo": "Awesome-AI-Security",
-            "stars": 1662
+            "stars": 1663
           }
         },
         {
@@ -394,7 +394,7 @@
             "last_commit": "2026-06-07T02:04:12Z",
             "owner": "bureado",
             "repo": "awesome-software-supply-chain-security",
-            "stars": 377
+            "stars": 378
           }
         },
         {
@@ -609,7 +609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:08:51.733Z",
+    "last_updated": "2026-08-25T08:07:33.084Z",
     "original_repository": "eltociear/awesome-molt-ecosystem",
     "original_repository_id": 1148550616,
     "original_repository_sha": "7c68dd5f7b1f2bca642afb5c150f03a006947115",
