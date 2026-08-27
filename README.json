@@ -125,10 +125,10 @@
                 "archived": false,
                 "id": 846698999,
                 "language": "Rust",
-                "last_commit": "2026-08-26T03:15:32Z",
+                "last_commit": "2026-08-27T03:05:44Z",
                 "owner": "aaif-goose",
                 "repo": "goose",
-                "stars": 53478
+                "stars": 53562
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-14T11:51:57Z",
                 "owner": "gooseworks-ai",
                 "repo": "goose-skills",
-                "stars": 1181
+                "stars": 1187
               }
             }
           ],
@@ -166,10 +166,10 @@
             "archived": false,
             "id": 896335270,
             "language": null,
-            "last_commit": "2026-08-17T21:28:42Z",
+            "last_commit": "2026-08-26T20:37:13Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92826
+            "stars": 92872
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2026-08-10T21:45:44Z",
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 73255
+            "stars": 73426
           }
         },
         {
@@ -211,10 +211,10 @@
             "archived": false,
             "id": 846698999,
             "language": "Rust",
-            "last_commit": "2026-08-26T03:15:32Z",
+            "last_commit": "2026-08-27T03:05:44Z",
             "owner": "aaif-goose",
             "repo": "goose",
-            "stars": 53478
+            "stars": 53562
           }
         },
         {
@@ -229,7 +229,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36712
+            "stars": 36723
           }
         },
         {
@@ -244,7 +244,7 @@
             "last_commit": "2024-09-01T20:32:39Z",
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28162
+            "stars": 28163
           }
         },
         {
@@ -259,7 +259,7 @@
             "last_commit": "2026-04-28T19:30:24Z",
             "owner": "travisvn",
             "repo": "awesome-claude-skills",
-            "stars": 14824
+            "stars": 14842
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2026-08-25T11:52:38Z",
             "owner": "yzfly",
             "repo": "Awesome-MCP-ZH",
-            "stars": 7600
+            "stars": 7607
           }
         },
         {
@@ -304,7 +304,7 @@
             "last_commit": "2026-05-21T09:12:50Z",
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5920
+            "stars": 5921
           }
         },
         {
@@ -319,7 +319,7 @@
             "last_commit": "2024-05-11T17:48:07Z",
             "owner": "devsecops",
             "repo": "awesome-devsecops",
-            "stars": 5461
+            "stars": 5460
           }
         },
         {
@@ -334,7 +334,7 @@
             "last_commit": "2025-12-31T14:46:19Z",
             "owner": "mahseema",
             "repo": "awesome-ai-tools",
-            "stars": 6044
+            "stars": 6056
           }
         },
         {
@@ -349,7 +349,7 @@
             "last_commit": "2026-03-08T18:32:29Z",
             "owner": "DeepSpaceHarbor",
             "repo": "Awesome-AI-Security",
-            "stars": 1663
+            "stars": 1664
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2026-06-02T20:44:41Z",
             "owner": "Joe-B-Security",
             "repo": "awesome-prompt-injection",
-            "stars": 601
+            "stars": 602
           }
         },
         {
@@ -394,7 +394,7 @@
             "last_commit": "2026-06-07T02:04:12Z",
             "owner": "bureado",
             "repo": "awesome-software-supply-chain-security",
-            "stars": 378
+            "stars": 379
           }
         },
         {
@@ -508,7 +508,7 @@
                 "archived": false,
                 "id": 1284628499,
                 "language": "Python",
-                "last_commit": "2026-08-23T10:08:13Z",
+                "last_commit": "2026-08-26T23:24:49Z",
                 "owner": "vbkotecha",
                 "repo": "agentservices-api",
                 "stars": 1
@@ -537,7 +537,7 @@
             "last_commit": "2026-08-14T11:51:57Z",
             "owner": "gooseworks-ai",
             "repo": "goose-skills",
-            "stars": 1181
+            "stars": 1187
           }
         }
       ],
@@ -609,9 +609,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:54:55.211Z",
-    "original_repository": "eltociear/awesome-molt-ecosystem",
-    "original_repository_id": 1148550616,
+    "last_updated": "2026-08-27T11:53:21.268Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1148550616,
+      "language": "Dockerfile",
+      "last_commit": "2026-08-19T17:39:09Z",
+      "owner": "eltociear",
+      "repo": "awesome-molt-ecosystem",
+      "stars": 62
+    },
     "original_repository_sha": "7c68dd5f7b1f2bca642afb5c150f03a006947115",
     "enhanced_repository": "enhansome/enhansome-molt-ecosystem",
     "enhanced_repository_description": null,
