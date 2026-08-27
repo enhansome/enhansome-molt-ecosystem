@@ -125,10 +125,10 @@
                 "archived": false,
                 "id": 846698999,
                 "language": "Rust",
-                "last_commit": "2026-08-27T03:05:44Z",
+                "last_commit": "2026-08-27T16:32:50Z",
                 "owner": "aaif-goose",
                 "repo": "goose",
-                "stars": 53562
+                "stars": 53571
               }
             },
             {
@@ -169,7 +169,7 @@
             "last_commit": "2026-08-26T20:37:13Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92872
+            "stars": 92883
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2026-08-10T21:45:44Z",
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 73426
+            "stars": 73494
           }
         },
         {
@@ -211,10 +211,10 @@
             "archived": false,
             "id": 846698999,
             "language": "Rust",
-            "last_commit": "2026-08-27T03:05:44Z",
+            "last_commit": "2026-08-27T16:32:50Z",
             "owner": "aaif-goose",
             "repo": "goose",
-            "stars": 53562
+            "stars": 53571
           }
         },
         {
@@ -259,7 +259,7 @@
             "last_commit": "2026-04-28T19:30:24Z",
             "owner": "travisvn",
             "repo": "awesome-claude-skills",
-            "stars": 14842
+            "stars": 14845
           }
         },
         {
@@ -304,7 +304,7 @@
             "last_commit": "2026-05-21T09:12:50Z",
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5921
+            "stars": 5922
           }
         },
         {
@@ -334,7 +334,7 @@
             "last_commit": "2025-12-31T14:46:19Z",
             "owner": "mahseema",
             "repo": "awesome-ai-tools",
-            "stars": 6056
+            "stars": 6060
           }
         },
         {
@@ -349,7 +349,7 @@
             "last_commit": "2026-03-08T18:32:29Z",
             "owner": "DeepSpaceHarbor",
             "repo": "Awesome-AI-Security",
-            "stars": 1664
+            "stars": 1665
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2026-06-02T20:44:41Z",
             "owner": "Joe-B-Security",
             "repo": "awesome-prompt-injection",
-            "stars": 602
+            "stars": 604
           }
         },
         {
@@ -609,7 +609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:53:21.268Z",
+    "last_updated": "2026-08-27T16:34:59.520Z",
     "original_repository_info": {
       "archived": false,
       "id": 1148550616,
