@@ -10,12 +10,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Static security scanner for MCP servers, agent skills & plugins: 17 attack patterns / 60 regex signatures, calibrated to a 1% false-positive rate over 196 public MCP servers. In the official MCP Registry: io.github.eltociear/skill-audit-mcp. Also a pay-per-call x402 API.",
+            "homepage": null,
             "id": 1225346815,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-19T05:09:11Z",
+            "open_issues": 1,
             "owner": "eltociear",
             "repo": "skill-audit-mcp",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "ai-agent-security",
+              "claude-skills",
+              "devsecops",
+              "github-action",
+              "mcp",
+              "mcp-server",
+              "prompt-injection",
+              "sarif",
+              "security",
+              "static-analysis",
+              "supply-chain-security",
+              "vulnerability-scanner"
+            ]
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         },
@@ -26,12 +44,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server detecting leaked secrets/credentials (32+ provider rules). In the official MCP Registry: io.github.eltociear/secrets-audit-mcp. Pure stdlib, zero deps.",
+            "homepage": null,
             "id": 1238305251,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-19T05:09:14Z",
+            "open_issues": 0,
             "owner": "eltociear",
             "repo": "secrets-audit-mcp",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "ai-agent",
+              "claude",
+              "credential-scanning",
+              "cursor",
+              "gitleaks-alternative",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "python",
+              "secret-scanning",
+              "secrets-detection",
+              "security",
+              "static-analysis",
+              "stdio",
+              "trufflehog-alternative"
+            ]
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         },
@@ -42,12 +81,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Catch install-time PyPI malware before pip install runs it. Zero-dep setup.py scanner + typosquat hunter, six signatures with a documented false-positive taxonomy, calibrated over a 259-package scan.",
+            "homepage": null,
             "id": 1312588229,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-02T14:44:31Z",
+            "open_issues": 0,
             "owner": "eltociear",
             "repo": "pypi-supply-scan",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "devsecops",
+              "malware-detection",
+              "pypi",
+              "python",
+              "security",
+              "static-analysis",
+              "supply-chain",
+              "typosquatting"
+            ]
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         },
@@ -58,12 +111,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scan MCP servers & AI-agent skills for malicious patterns (prompt injection in tool descriptions, credential exfil, download-and-execute). 17 patterns / 60 signatures, zero-dep. Measured over 196 public MCP servers: 99% clean, false-positive rate calibrated 14.8% -> 1.0%.",
+            "homepage": null,
             "id": 1312592830,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-02T13:01:42Z",
+            "open_issues": 0,
             "owner": "eltociear",
             "repo": "mcp-audit",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "ai-agents",
+              "llm-security",
+              "mcp",
+              "model-context-protocol",
+              "prompt-injection",
+              "security",
+              "static-analysis",
+              "supply-chain"
+            ]
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         }
@@ -82,12 +149,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Static security scanner for MCP servers, agent skills & plugins: 17 attack patterns / 60 regex signatures, calibrated to a 1% false-positive rate over 196 public MCP servers. In the official MCP Registry: io.github.eltociear/skill-audit-mcp. Also a pay-per-call x402 API.",
+                "homepage": null,
                 "id": 1225346815,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-19T05:09:11Z",
+                "open_issues": 1,
                 "owner": "eltociear",
                 "repo": "skill-audit-mcp",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "ai-agent-security",
+                  "claude-skills",
+                  "devsecops",
+                  "github-action",
+                  "mcp",
+                  "mcp-server",
+                  "prompt-injection",
+                  "sarif",
+                  "security",
+                  "static-analysis",
+                  "supply-chain-security",
+                  "vulnerability-scanner"
+                ]
               },
               "first_seen": "2026-08-28T17:30:17.936Z"
             },
@@ -98,12 +183,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server detecting leaked secrets/credentials (32+ provider rules). In the official MCP Registry: io.github.eltociear/secrets-audit-mcp. Pure stdlib, zero deps.",
+                "homepage": null,
                 "id": 1238305251,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-19T05:09:14Z",
+                "open_issues": 0,
                 "owner": "eltociear",
                 "repo": "secrets-audit-mcp",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "ai-agent",
+                  "claude",
+                  "credential-scanning",
+                  "cursor",
+                  "gitleaks-alternative",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "python",
+                  "secret-scanning",
+                  "secrets-detection",
+                  "security",
+                  "static-analysis",
+                  "stdio",
+                  "trufflehog-alternative"
+                ]
               },
               "first_seen": "2026-08-28T17:30:17.936Z"
             },
@@ -114,12 +220,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official repository for submitting MCP servers to be included in Cline's MCP Marketplace. If you’ve built an MCP server and want it to be discoverable and easily installable by millions of developers using Cline, submit your server here.",
+                "homepage": null,
                 "id": 933063306,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-06-24T22:35:47Z",
+                "open_issues": 2086,
                 "owner": "cline",
                 "repo": "mcp-marketplace",
-                "stars": 785
+                "stars": 785,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:17.936Z"
             },
@@ -130,12 +241,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+                "homepage": "https://goose-docs.ai/",
                 "id": 846698999,
                 "language": "Rust",
-                "last_commit": "2026-08-28T17:28:22Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T20:20:42Z",
+                "open_issues": 223,
                 "owner": "aaif-goose",
                 "repo": "goose",
-                "stars": 53612
+                "stars": 53630,
+                "topics": [
+                  "acp",
+                  "ai",
+                  "ai-agents",
+                  "mcp"
+                ]
               },
               "first_seen": "2026-08-28T17:30:17.936Z"
             },
@@ -146,12 +267,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and data scraping",
+                "homepage": "https://gooseworks.ai/cli",
                 "id": 1170279318,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-14T11:51:57Z",
+                "open_issues": 54,
                 "owner": "gooseworks-ai",
                 "repo": "goose-skills",
-                "stars": 1188
+                "stars": 1188,
+                "topics": [
+                  "claude",
+                  "claude-skills",
+                  "claudecode",
+                  "claudecode-skills",
+                  "codex",
+                  "cursor",
+                  "gtm",
+                  "skills"
+                ]
               },
               "first_seen": "2026-08-28T17:30:17.936Z"
             }
@@ -173,12 +308,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of MCP servers.",
+            "homepage": "https://glama.ai/mcp/servers",
             "id": 896335270,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-27T21:09:23Z",
+            "open_issues": 3712,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92972
+            "stars": 93010,
+            "topics": [
+              "ai",
+              "mcp"
+            ]
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         },
@@ -189,12 +332,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official repository for submitting MCP servers to be included in Cline's MCP Marketplace. If you’ve built an MCP server and want it to be discoverable and easily installable by millions of developers using Cline, submit your server here.",
+            "homepage": null,
             "id": 933063306,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-06-24T22:35:47Z",
+            "open_issues": 2086,
             "owner": "cline",
             "repo": "mcp-marketplace",
-            "stars": 785
+            "stars": 785,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         },
@@ -205,12 +353,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+            "homepage": null,
             "id": 1078079172,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-10T21:45:44Z",
+            "open_issues": 1346,
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 73803
+            "stars": 73828,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "antigravity",
+              "automation",
+              "claude",
+              "claude-code",
+              "codex",
+              "composio",
+              "cursor",
+              "developer-tools",
+              "gemini-cli",
+              "mcp",
+              "openai-codex",
+              "rube",
+              "saas",
+              "skill",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         },
@@ -221,12 +392,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+            "homepage": "https://goose-docs.ai/",
             "id": 846698999,
             "language": "Rust",
-            "last_commit": "2026-08-28T17:28:22Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T20:20:42Z",
+            "open_issues": 223,
             "owner": "aaif-goose",
             "repo": "goose",
-            "stars": 53612
+            "stars": 53630,
+            "topics": [
+              "acp",
+              "ai",
+              "ai-agents",
+              "mcp"
+            ]
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         },
@@ -237,12 +418,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":whale: A curated list of Docker resources and projects",
+            "homepage": "https://average.joe.dev/awesome-docker/",
             "id": 24297122,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:04:16Z",
+            "open_issues": 25,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36735
+            "stars": 36736,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "container",
+              "docker",
+              "docker-api",
+              "docker-container",
+              "docker-deployment",
+              "docker-environment",
+              "docker-image",
+              "docker-machine",
+              "docker-monitoring",
+              "docker-registry",
+              "docker-security",
+              "docker-swarm",
+              "dockerfile",
+              "list",
+              "moby",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         },
@@ -253,12 +458,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome actions to use on GitHub",
+            "homepage": null,
             "id": 153500249,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-09-01T20:32:39Z",
+            "open_issues": 278,
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28168
+            "stars": 28169,
+            "topics": [
+              "actions",
+              "actions-list",
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "curated-list",
+              "github",
+              "github-actions"
+            ]
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         },
@@ -269,12 +488,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code",
+            "homepage": null,
             "id": 1077850011,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-28T19:30:24Z",
+            "open_issues": 773,
             "owner": "travisvn",
             "repo": "awesome-claude-skills",
-            "stars": 14868
+            "stars": 14873,
+            "topics": [
+              "agentic-coding",
+              "anthropic",
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "claude",
+              "claude-ai",
+              "claude-code",
+              "claude-desktop",
+              "claude-skills",
+              "claudeskills"
+            ]
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         },
@@ -285,12 +521,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Claude Skills.",
+            "homepage": null,
             "id": 1078332194,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-02T11:06:52Z",
+            "open_issues": 120,
             "owner": "BehiSecc",
             "repo": "awesome-claude-skills",
-            "stars": 10064
+            "stars": 10064,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         },
@@ -301,12 +542,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients",
+            "homepage": null,
             "id": 959543974,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-25T11:52:38Z",
+            "open_issues": 13,
             "owner": "yzfly",
             "repo": "Awesome-MCP-ZH",
-            "stars": 7610
+            "stars": 7611,
+            "topics": [
+              "claude",
+              "claude-mcp",
+              "deepseek",
+              "deepseek-mcp",
+              "mcp",
+              "mcp-clients",
+              "mcp-host",
+              "mcp-server",
+              "mcp-servers",
+              "mcp-servers-directory",
+              "mcp-tools",
+              "qwen-mcp"
+            ]
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         },
@@ -317,12 +576,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An awesome & curated list of best LLMOps tools for developers",
+            "homepage": null,
             "id": 481805419,
             "language": "Shell",
+            "license": "CC0-1.0",
             "last_commit": "2026-05-21T09:12:50Z",
+            "open_issues": 259,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5922
+            "stars": 5922,
+            "topics": [
+              "ai-development-tools",
+              "awesome-list",
+              "llmops",
+              "mlops"
+            ]
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         },
@@ -333,12 +602,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An authoritative list of awesome devsecops tools with the help from community experiments and contributions.",
+            "homepage": "http://devsecops.org",
             "id": 43963567,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-05-11T17:48:07Z",
+            "open_issues": 83,
             "owner": "devsecops",
             "repo": "awesome-devsecops",
-            "stars": 5460
+            "stars": 5460,
+            "topics": [
+              "devops",
+              "devsecops",
+              "podcast",
+              "threat-intelligence"
+            ]
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         },
@@ -349,12 +628,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Artificial Intelligence Top Tools",
+            "homepage": null,
             "id": 683212753,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-12-31T14:46:19Z",
+            "open_issues": 1259,
             "owner": "mahseema",
             "repo": "awesome-ai-tools",
-            "stars": 6072
+            "stars": 6073,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "ai-agents",
+              "ai-assistant",
+              "ai-tools",
+              "ai-tools-list",
+              "ai-top-tools",
+              "awesome",
+              "awesome-ai",
+              "awesome-ai-tools",
+              "awesome-list",
+              "bestofai",
+              "futuretools",
+              "machine-learning",
+              "ml",
+              "mlops",
+              "theresanaiforthat",
+              "top-ai-tools",
+              "vibe-coding",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         },
@@ -365,12 +670,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":file_folder: #AISecurity",
+            "homepage": null,
             "id": 102793957,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-08T18:32:29Z",
+            "open_issues": 22,
             "owner": "DeepSpaceHarbor",
             "repo": "Awesome-AI-Security",
-            "stars": 1666
+            "stars": 1666,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         },
@@ -381,12 +691,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curation of awesome tools, documents and projects about LLM Security.",
+            "homepage": null,
             "id": 662394571,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-20T01:27:47Z",
+            "open_issues": 196,
             "owner": "corca-ai",
             "repo": "awesome-llm-security",
-            "stars": 1687
+            "stars": 1687,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "llm",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         },
@@ -397,12 +717,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn about a type of vulnerability that specifically targets machine learning models",
+            "homepage": null,
             "id": 645084721,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-06-02T20:44:41Z",
+            "open_issues": 30,
             "owner": "Joe-B-Security",
             "repo": "awesome-prompt-injection",
-            "stars": 605
+            "stars": 606,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         },
@@ -413,12 +741,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A compilation of resources in the software supply chain security domain, with emphasis on open source",
+            "homepage": null,
             "id": 461401576,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-07T02:04:12Z",
+            "open_issues": 46,
             "owner": "bureado",
             "repo": "awesome-software-supply-chain-security",
-            "stars": 379
+            "stars": 379,
+            "topics": [
+              "attestation",
+              "awesome-list",
+              "cve-scanning",
+              "dependencies",
+              "dependency-management",
+              "devsecops",
+              "oss-compliance",
+              "package-management",
+              "reproducible-builds",
+              "sbom",
+              "security-vulnerability",
+              "software-composition-analysis",
+              "software-supply-chain",
+              "software-supply-chain-security",
+              "static-analysis",
+              "supply-chain-attacks",
+              "supply-chain-security",
+              "vulnerability-management",
+              "vulnerability-scanning"
+            ]
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         },
@@ -431,12 +784,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server detecting leaked secrets/credentials (32+ provider rules). In the official MCP Registry: io.github.eltociear/secrets-audit-mcp. Pure stdlib, zero deps.",
+                "homepage": null,
                 "id": 1238305251,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-19T05:09:14Z",
+                "open_issues": 0,
                 "owner": "eltociear",
                 "repo": "secrets-audit-mcp",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "ai-agent",
+                  "claude",
+                  "credential-scanning",
+                  "cursor",
+                  "gitleaks-alternative",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "python",
+                  "secret-scanning",
+                  "secrets-detection",
+                  "security",
+                  "static-analysis",
+                  "stdio",
+                  "trufflehog-alternative"
+                ]
               },
               "first_seen": "2026-08-28T17:30:17.936Z"
             }
@@ -460,12 +834,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Static security scanner for MCP servers, agent skills & plugins: 17 attack patterns / 60 regex signatures, calibrated to a 1% false-positive rate over 196 public MCP servers. In the official MCP Registry: io.github.eltociear/skill-audit-mcp. Also a pay-per-call x402 API.",
+                "homepage": null,
                 "id": 1225346815,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-19T05:09:11Z",
+                "open_issues": 1,
                 "owner": "eltociear",
                 "repo": "skill-audit-mcp",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "ai-agent-security",
+                  "claude-skills",
+                  "devsecops",
+                  "github-action",
+                  "mcp",
+                  "mcp-server",
+                  "prompt-injection",
+                  "sarif",
+                  "security",
+                  "static-analysis",
+                  "supply-chain-security",
+                  "vulnerability-scanner"
+                ]
               },
               "first_seen": "2026-08-28T17:30:17.936Z"
             }
@@ -488,12 +880,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GitHub Action: crypto/DeFi price monitoring using tokenguard API",
+                    "homepage": null,
                     "id": 1283865169,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-06-29T11:55:43Z",
+                    "open_issues": 0,
                     "owner": "eltociear",
                     "repo": "tokenguard-action",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:17.936Z"
                 },
@@ -504,12 +901,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MCP server for tokenguard: 40+ crypto/DeFi data tools for AI agents (price, gas, TVL, Fear&Greed, mempool, NFT, stablecoins)",
+                    "homepage": null,
                     "id": 1283599002,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2026-08-19T05:09:15Z",
+                    "open_issues": 0,
                     "owner": "eltociear",
                     "repo": "tokenguard-mcp",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:30:17.936Z"
                 }
@@ -535,12 +937,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AgentServices — Premium APIs for AI Agents. Crypto data, marketing intelligence, dispute resolution. x402 micropayments on Base.",
+                "homepage": "https://agentservices.to",
                 "id": 1284628499,
                 "language": "Python",
-                "last_commit": "2026-08-26T23:24:49Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T01:37:59Z",
+                "open_issues": 3,
                 "owner": "vbkotecha",
                 "repo": "agentservices-api",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "agent",
+                  "agent-economy",
+                  "agent-payments",
+                  "ai-agents",
+                  "api",
+                  "base",
+                  "claude-skills",
+                  "crypto-api",
+                  "defi",
+                  "financial-data",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "paid-api",
+                  "usdc",
+                  "x402"
+                ]
               },
               "first_seen": "2026-08-28T17:30:17.936Z"
             }
@@ -562,12 +986,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and data scraping",
+            "homepage": "https://gooseworks.ai/cli",
             "id": 1170279318,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-14T11:51:57Z",
+            "open_issues": 54,
             "owner": "gooseworks-ai",
             "repo": "goose-skills",
-            "stars": 1188
+            "stars": 1188,
+            "topics": [
+              "claude",
+              "claude-skills",
+              "claudecode",
+              "claudecode-skills",
+              "codex",
+              "cursor",
+              "gtm",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         }
@@ -584,12 +1022,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Static security scanner for MCP servers, agent skills & plugins: 17 attack patterns / 60 regex signatures, calibrated to a 1% false-positive rate over 196 public MCP servers. In the official MCP Registry: io.github.eltociear/skill-audit-mcp. Also a pay-per-call x402 API.",
+            "homepage": null,
             "id": 1225346815,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-19T05:09:11Z",
+            "open_issues": 1,
             "owner": "eltociear",
             "repo": "skill-audit-mcp",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "ai-agent-security",
+              "claude-skills",
+              "devsecops",
+              "github-action",
+              "mcp",
+              "mcp-server",
+              "prompt-injection",
+              "sarif",
+              "security",
+              "static-analysis",
+              "supply-chain-security",
+              "vulnerability-scanner"
+            ]
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
         }
@@ -608,12 +1064,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple bot template that you can use to forecast a Metaculus tournament",
+                "homepage": null,
                 "id": 822402047,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-27T21:24:09Z",
+                "open_issues": 2,
                 "owner": "Metaculus",
                 "repo": "metac-bot-template",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:30:17.936Z"
             },
@@ -624,12 +1085,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Static security scanner for MCP servers, agent skills & plugins: 17 attack patterns / 60 regex signatures, calibrated to a 1% false-positive rate over 196 public MCP servers. In the official MCP Registry: io.github.eltociear/skill-audit-mcp. Also a pay-per-call x402 API.",
+                "homepage": null,
                 "id": 1225346815,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-19T05:09:11Z",
+                "open_issues": 1,
                 "owner": "eltociear",
                 "repo": "skill-audit-mcp",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "ai-agent-security",
+                  "claude-skills",
+                  "devsecops",
+                  "github-action",
+                  "mcp",
+                  "mcp-server",
+                  "prompt-injection",
+                  "sarif",
+                  "security",
+                  "static-analysis",
+                  "supply-chain-security",
+                  "vulnerability-scanner"
+                ]
               },
               "first_seen": "2026-08-28T17:30:17.936Z"
             }
@@ -643,15 +1122,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:30:17.936Z",
+    "last_updated": "2026-08-29T05:02:21.258Z",
     "original_repository_info": {
       "archived": false,
+      "description": "The brutally honest map of where AI-agent money actually flows. 51 rounds, 137 angles, 230+ platforms. 3 self-hosted x402 v2 endpoints + 3 tools in the official MCP Registry. 385K star distribution.",
+      "homepage": null,
       "id": 1148550616,
       "language": "Dockerfile",
+      "license": null,
       "last_commit": "2026-08-28T04:18:20Z",
+      "open_issues": 6,
       "owner": "eltociear",
       "repo": "awesome-molt-ecosystem",
-      "stars": 62
+      "stars": 62,
+      "topics": [
+        "agent-economy",
+        "ai-agent",
+        "ai-agents",
+        "aiagent",
+        "awesome",
+        "awesome-list",
+        "bug-bounty",
+        "ecosystem",
+        "marketplace",
+        "mcp",
+        "moltbook",
+        "moltbot",
+        "molty",
+        "openclaw",
+        "polar-sh",
+        "skill-audit-mcp",
+        "story-protocol",
+        "usdc",
+        "web3",
+        "x402"
+      ]
     },
     "original_repository_sha": "dbf1a5ed9b27861509d9b627da492396dd87b4b1",
     "enhanced_repository": "enhansome/enhansome-molt-ecosystem",
