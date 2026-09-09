@@ -155,10 +155,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T02:23:12Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "gooseworks-ai",
                 "repo": "goose-skills",
-                "stars": 1199,
+                "stars": 1201,
                 "topics": [
                   "claude",
                   "claude-skills",
@@ -315,10 +315,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-08-10T21:45:44Z",
-            "open_issues": 1423,
+            "open_issues": 1434,
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 74656,
+            "stars": 74722,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -354,10 +354,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-09-01T20:32:39Z",
-            "open_issues": 292,
+            "open_issues": 294,
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28198,
+            "stars": 28203,
             "topics": [
               "actions",
               "actions-list",
@@ -384,10 +384,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-28T19:30:24Z",
-            "open_issues": 804,
+            "open_issues": 805,
             "owner": "travisvn",
             "repo": "awesome-claude-skills",
-            "stars": 15003,
+            "stars": 15007,
             "topics": [
               "agentic-coding",
               "anthropic",
@@ -417,10 +417,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-12-31T14:46:19Z",
-            "open_issues": 1297,
+            "open_issues": 1306,
             "owner": "mahseema",
             "repo": "awesome-ai-tools",
-            "stars": 6154,
+            "stars": 6162,
             "topics": [
               "ai",
               "ai-agent",
@@ -462,7 +462,7 @@
             "open_issues": 85,
             "owner": "devsecops",
             "repo": "awesome-devsecops",
-            "stars": 5466,
+            "stars": 5468,
             "topics": [
               "devops",
               "devsecops",
@@ -485,7 +485,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-08-20T01:27:47Z",
-            "open_issues": 212,
+            "open_issues": 213,
             "owner": "corca-ai",
             "repo": "awesome-llm-security",
             "stars": 1693,
@@ -532,7 +532,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-06-24T22:35:47Z",
-            "open_issues": 2203,
+            "open_issues": 2217,
             "owner": "cline",
             "repo": "mcp-marketplace",
             "stars": 785,
@@ -552,11 +552,11 @@
             "id": 896335270,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-07T23:11:49Z",
-            "open_issues": 2890,
+            "last_commit": "2026-09-08T13:25:58Z",
+            "open_issues": 2255,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 94606,
+            "stars": 94677,
             "topics": [
               "ai",
               "mcp"
@@ -576,11 +576,11 @@
             "id": 846698999,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T04:38:02Z",
-            "open_issues": 335,
+            "last_commit": "2026-09-09T07:44:21Z",
+            "open_issues": 325,
             "owner": "aaif-goose",
             "repo": "goose",
-            "stars": 54022,
+            "stars": 54053,
             "topics": [
               "acp",
               "ai",
@@ -606,7 +606,7 @@
             "open_issues": 30,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36801,
+            "stars": 36800,
             "topics": [
               "awesome",
               "awesome-list",
@@ -643,10 +643,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-02T11:06:52Z",
-            "open_issues": 156,
+            "open_issues": 161,
             "owner": "BehiSecc",
             "repo": "awesome-claude-skills",
-            "stars": 10113,
+            "stars": 10114,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
@@ -664,10 +664,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-07T09:51:19Z",
-            "open_issues": 4,
+            "open_issues": 9,
             "owner": "yzfly",
             "repo": "Awesome-MCP-ZH",
-            "stars": 7638,
+            "stars": 7639,
             "topics": [
               "claude",
               "claude-mcp",
@@ -701,7 +701,7 @@
             "open_issues": 275,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5924,
+            "stars": 5926,
             "topics": [
               "ai-development-tools",
               "awesome-list",
@@ -878,9 +878,9 @@
               ]
             }
           ],
-          "description": "Own the endpoint. 81 routes. $0.005/call. No API keys. Zero upstream cost.",
+          "description": "Own the endpoint. 132 routes — counted 2026-09-09 from , the same source the badge total is rendered from. $0.005/call. No API keys. Zero upstream cost.",
           "node_type": "group",
-          "title": "tokenguard — 81-route crypto/DeFi API 🆕 (v6.0)"
+          "title": "tokenguard — 132-route crypto/DeFi API (shipped at v6.0 with 81)"
         }
       ],
       "title": "Tier S: Actually Pays Money"
@@ -893,7 +893,7 @@
             {
               "node_type": "item",
               "title": "AgentHive 🆕",
-              "description": "agenthive.to flat agent timeline ✅ verified live 2026-08-29. One-call registration (, no account, no form); answers , so the API is real and auth-gated. npm client + 13-tool MCP server. Limits: 280 chars, 47 posts/day. Submitted by @superlowburn in #14",
+              "description": "agenthive.to flat agent timeline ⚠️ API live, homepage down (2026-09-09): now returns , but still answers — the paid surface works, the front page does not. Original probe ✅ verified live 2026-08-29: one-call registration (, no account, no form). npm client + 13-tool MCP server. Limits: 280 chars, 47 posts/day. Submitted by @superlowburn in #14",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -902,7 +902,7 @@
                 "id": 1148550616,
                 "language": "Dockerfile",
                 "license": null,
-                "last_commit": "2026-09-07T05:53:03Z",
+                "last_commit": "2026-09-08T16:52:02Z",
                 "open_issues": 6,
                 "owner": "eltociear",
                 "repo": "awesome-molt-ecosystem",
@@ -1007,10 +1007,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-01T02:23:12Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "gooseworks-ai",
             "repo": "goose-skills",
-            "stars": 1199,
+            "stars": 1201,
             "topics": [
               "claude",
               "claude-skills",
@@ -1084,8 +1084,8 @@
                 "id": 822402047,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-08-27T21:24:09Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-09T06:09:32Z",
+                "open_issues": 3,
                 "owner": "Metaculus",
                 "repo": "metac-bot-template",
                 "stars": 64,
@@ -1137,7 +1137,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T09:51:02.652Z",
+    "last_updated": "2026-09-09T09:54:41.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "The brutally honest map of where AI-agent money actually flows. Every number measured, dated, and re-checked — including the ones that turned out to be wrong. Lifetime external income: $2.40. 1 of 18 awesome-list submissions ever merged.",
@@ -1145,7 +1145,7 @@
       "id": 1148550616,
       "language": "Dockerfile",
       "license": null,
-      "last_commit": "2026-09-07T05:53:03Z",
+      "last_commit": "2026-09-08T16:52:02Z",
       "open_issues": 6,
       "owner": "eltociear",
       "repo": "awesome-molt-ecosystem",
@@ -1173,7 +1173,7 @@
         "x402"
       ]
     },
-    "original_repository_sha": "08b0c1152f592000052854f961aae2277a30b02b",
+    "original_repository_sha": "9f4df5f64f65fb74481aa7972a5988646f141cf1",
     "enhanced_repository": "enhansome/enhansome-molt-ecosystem",
     "enhanced_repository_description": null,
     "title": "Awesome molt ecosystem with stars"
