@@ -318,7 +318,7 @@
             "open_issues": 1644,
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 76575,
+            "stars": 76580,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -420,7 +420,7 @@
             "open_issues": 1437,
             "owner": "mahseema",
             "repo": "awesome-ai-tools",
-            "stars": 6354,
+            "stars": 6355,
             "topics": [
               "ai",
               "ai-agent",
@@ -553,10 +553,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-27T02:12:17Z",
-            "open_issues": 3013,
+            "open_issues": 3016,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 95864,
+            "stars": 95866,
             "topics": [
               "ai",
               "mcp"
@@ -606,7 +606,7 @@
             "open_issues": 47,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36970,
+            "stars": 36971,
             "topics": [
               "awesome",
               "awesome-list",
@@ -643,7 +643,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-21T07:16:41Z",
-            "open_issues": 312,
+            "open_issues": 313,
             "owner": "BehiSecc",
             "repo": "awesome-claude-skills",
             "stars": 10214,
@@ -1082,7 +1082,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:02:34.196Z",
+    "last_updated": "2026-10-06T12:06:16.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "The brutally honest map of where AI-agent money actually flows. Every number measured, dated, and re-checked — including the ones that turned out to be wrong. Lifetime external income: $2.40. 1 of 18 awesome-list submissions ever merged.",
