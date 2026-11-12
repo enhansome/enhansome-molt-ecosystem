@@ -158,7 +158,7 @@
                 "open_issues": 73,
                 "owner": "gooseworks-ai",
                 "repo": "goose-skills",
-                "stars": 1314,
+                "stars": 1315,
                 "topics": [
                   "claude",
                   "claude-skills",
@@ -274,7 +274,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-07T02:04:12Z",
-            "open_issues": 92,
+            "open_issues": 93,
             "owner": "bureado",
             "repo": "awesome-software-supply-chain-security",
             "stars": 382,
@@ -315,10 +315,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-18T07:16:11Z",
-            "open_issues": 1891,
+            "open_issues": 1892,
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 79244,
+            "stars": 79329,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -357,7 +357,7 @@
             "open_issues": 360,
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28425,
+            "stars": 28429,
             "topics": [
               "actions",
               "actions-list",
@@ -384,10 +384,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-28T19:30:24Z",
-            "open_issues": 934,
+            "open_issues": 931,
             "owner": "travisvn",
             "repo": "awesome-claude-skills",
-            "stars": 15779,
+            "stars": 15792,
             "topics": [
               "agentic-coding",
               "anthropic",
@@ -417,10 +417,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-12-31T14:46:19Z",
-            "open_issues": 1759,
+            "open_issues": 1761,
             "owner": "mahseema",
             "repo": "awesome-ai-tools",
-            "stars": 6576,
+            "stars": 6582,
             "topics": [
               "ai",
               "ai-agent",
@@ -462,7 +462,7 @@
             "open_issues": 99,
             "owner": "devsecops",
             "repo": "awesome-devsecops",
-            "stars": 5514,
+            "stars": 5517,
             "topics": [
               "devops",
               "devsecops",
@@ -514,7 +514,7 @@
             "open_issues": 28,
             "owner": "DeepSpaceHarbor",
             "repo": "Awesome-AI-Security",
-            "stars": 1701,
+            "stars": 1704,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
@@ -532,10 +532,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-06-24T22:35:47Z",
-            "open_issues": 3320,
+            "open_issues": 3347,
             "owner": "cline",
             "repo": "mcp-marketplace",
-            "stars": 798,
+            "stars": 799,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
@@ -553,10 +553,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-11-06T17:59:03Z",
-            "open_issues": 4802,
+            "open_issues": 4897,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 97600,
+            "stars": 97646,
             "topics": [
               "ai",
               "mcp"
@@ -576,11 +576,11 @@
             "id": 846698999,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T04:26:36Z",
-            "open_issues": 569,
+            "last_commit": "2026-11-12T10:05:32Z",
+            "open_issues": 541,
             "owner": "aaif-goose",
             "repo": "goose",
-            "stars": 56453,
+            "stars": 56488,
             "topics": [
               "acp",
               "ai",
@@ -602,11 +602,11 @@
             "id": 24297122,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T19:38:56Z",
-            "open_issues": 77,
+            "last_commit": "2026-11-12T09:05:02Z",
+            "open_issues": 80,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37217,
+            "stars": 37223,
             "topics": [
               "awesome",
               "awesome-list",
@@ -643,10 +643,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-11-02T12:16:33Z",
-            "open_issues": 129,
+            "open_issues": 146,
             "owner": "BehiSecc",
             "repo": "awesome-claude-skills",
-            "stars": 10399,
+            "stars": 10408,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:17.936Z"
@@ -664,10 +664,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-11-01T02:54:38Z",
-            "open_issues": 111,
+            "open_issues": 120,
             "owner": "yzfly",
             "repo": "Awesome-MCP-ZH",
-            "stars": 7828,
+            "stars": 7830,
             "topics": [
               "claude",
               "claude-mcp",
@@ -698,7 +698,7 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-11-10T06:43:14Z",
-            "open_issues": 445,
+            "open_issues": 453,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
             "stars": 5972,
@@ -727,7 +727,7 @@
             "open_issues": 33,
             "owner": "Joe-B-Security",
             "repo": "awesome-prompt-injection",
-            "stars": 719,
+            "stars": 721,
             "topics": [
               "awesome",
               "awesome-list"
@@ -955,7 +955,7 @@
             "open_issues": 73,
             "owner": "gooseworks-ai",
             "repo": "goose-skills",
-            "stars": 1314,
+            "stars": 1315,
             "topics": [
               "claude",
               "claude-skills",
@@ -1082,7 +1082,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T12:49:30.191Z",
+    "last_updated": "2026-11-12T13:52:17.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "The brutally honest map of where AI-agent money actually flows. Every number measured, dated, and re-checked — including the ones that turned out to be wrong. Lifetime external income: $2.40. 1 of 18 awesome-list submissions ever merged.",
